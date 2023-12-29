@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Jiale Han"
 title_separator          : "-"
-name                     : &name "Jiale Han"
-description              : &description "personal description"
+name                     : "Jiale Han"
+description              : "NLPer"
 url                      : https://hanjiale.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hanjiale/hanjiale.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiale Han (韩佳乐)"
   avatar           : "profile.png"
-  bio              : #"Your biography for the left-hand sidebar"
+  bio              : "NLPer"
   location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=itFycmoAAAAJ"
