@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/tkde-2023-towards
 excerpt: '**Jiale Han**, Bo Cheng, Zhiguo Wan, and Wei Lu.'
 date: 2023-01-31
-venue: 'IEEE Transactions on Knowledge and Data Engineering'
+venue: 'IEEE Transactions on Knowledge and Data Engineering (TKDE)'
 ---
 
 [pdf](https://ieeexplore.ieee.org/abstract/document/10032649)

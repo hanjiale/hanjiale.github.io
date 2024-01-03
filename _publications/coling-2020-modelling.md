@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/coling-2020-modelling
 excerpt: 'Xu Wang, Shuai Zhao, **Jiale Han**, Bo Cheng, Hao Yang, Jianchang Ao, and Zhenzi Li.'
 date: 2020-12-08
-venue: 'Proceedings of the 28th International Conference on Computational Linguistics'
+venue: 'Proceedings of the International Conference on Computational Linguistics (COLING)'
 ---
 
 [pdf](https://aclanthology.org/2020.coling-main.231/)

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ijcai-2020-two
 excerpt: '**Jiale Han**, Bo Cheng, Xu Wang.'
 date: 2020-11-11
-venue: 'Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence'
+venue: 'Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)'
 ---
 
 [pdf](https://www.ijcai.org/Proceedings/2020/0500)

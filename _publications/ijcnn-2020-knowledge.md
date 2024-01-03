@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ijcnn-2020-knowledge
 excerpt: 'Xu Wang, Shuai Zhao, Bo Cheng, **Jiale Han**, Xiangsheng Wei, Yi Liang, and Hao Yang.'
 date: 2020-07-19
-venue: '2020 International Joint Conference on Neural Networks'
+venue: 'International Joint Conference on Neural Networks (IJCNN)'
 ---
 
 [pdf](https://ieeexplore.ieee.org/document/9207441)

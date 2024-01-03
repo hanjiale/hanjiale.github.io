@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/icassp-2021-integrating
 excerpt: 'Xu Wang, Shuai Zhao, Bo Cheng, **Jiale Han**, Yingting Li, Hao Yang, Ivan Sekulic, and Guoshun Nan.'
 date: 2021-06-11
-venue: '2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
+venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
 ---
 
 [pdf](https://ieeexplore.ieee.org/document/9413620)
