@@ -1,9 +1,9 @@
 ---
 title: "Hypergraph Convolutional Network for Multi-Hop Knowledge Base Question Answering"
 collection: publications
-permalink: /publication/ijcai-2020-two
+permalink: /publication/aaai-2020-hypergraph
 excerpt: '**Jiale Han**, Bo Cheng, Xu Wang.'
-date: 2020-02-07
+date: 2020-04-03
 venue: 'Proceedings of the AAAI Conference on Artificial Intelligence'
 ---
 
