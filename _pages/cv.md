@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My current [CV](/files/cv_jiale.pdf) (updated Jan 2024)
+My current [CV](/files/CV_Jiale.pdf) (updated Jan 2024)
 
 Education
 ======
