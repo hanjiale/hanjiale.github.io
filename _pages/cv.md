@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My current [CV](/files/cv.pdf) (updated Jan 2024)
+
 Education
 ======
 * Ph.D in Computer Science, Beijing University of Posts and Telecommunications, 2018 -- 2023
