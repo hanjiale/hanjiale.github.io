@@ -15,25 +15,18 @@ Education
 * B.S. in Telecommunications Engineering, Xidian University, 2014 -- 2018
 
 
-Research experience
+Research Experience
 ======
 * Visiting Research Fellow, September 2021 -- March 2023
   * Singapore University of Technology and Design, advised by Professor Wei Lu.
+  
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Skills
-======
-* Language
-  * Mandarin (native language)
-  * English (working proficiency)
-* Programming
-  * Python
-  * Java / MATLAB / C
+
   
 Academic Services
 ======
@@ -45,6 +38,15 @@ Academic Services
   
   TNNLS, TALLIP, TJSC, J. Intell. Fuzzy Syst., J. Supercomputing, Multimedia Systems
   
+Skills
+======
+* Language
+  * Mandarin (native language)
+  * English (working proficiency)
+* Programming
+  * Python
+  * Java / MATLAB / C
+
 Awards
 =====
 * Outstanding Graduate Award of BUPT, 2023

@@ -1,7 +1,7 @@
 ---
 title: "Learning Discriminative and Unbiased Representations for Few-Shot Relation Extraction"
 collection: publications
-permalink: /publication/emnlp-2021-exploring
+permalink: /publication/cikm-2021-learning
 excerpt: '**Jiale Han**, Bo Cheng, and Guoshun Nan.'
 date: 2021-10-26
 venue: 'Proceedings of the 30th ACM International Conference on Information & Knowledge Management'
