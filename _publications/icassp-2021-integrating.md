@@ -3,7 +3,7 @@ title: "Integrating Subgraph-Aware Relation and Direction Reasoning for Question
 collection: publications
 permalink: /publication/icassp-2021-integrating
 excerpt: 'Xu Wang, Shuai Zhao, Bo Cheng, **Jiale Han**, Yingting Li, Hao Yang, Ivan Sekulic, and Guoshun Nan.'
-date: 2021-06
+date: 2021-06-11
 venue: '2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
 ---
 

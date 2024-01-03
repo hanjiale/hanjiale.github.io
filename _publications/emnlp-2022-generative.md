@@ -3,7 +3,7 @@ title: "Generative Prompt Tuning for Relation Classification"
 collection: publications
 permalink: /publication/emnlp-2022-generative
 excerpt: '**Jiale Han**, Shuai Zhao, Bo Cheng, Shengkun Ma, and Wei Lu.'
-date: 2023-12
+date: 2023-12-07
 venue: 'Findings of the Association for Computational Linguistics: EMNLP 2022'
 ---
 

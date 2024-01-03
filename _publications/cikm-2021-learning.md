@@ -3,7 +3,7 @@ title: "Learning Discriminative and Unbiased Representations for Few-Shot Relati
 collection: publications
 permalink: /publication/emnlp-2021-exploring
 excerpt: '**Jiale Han**, Bo Cheng, and Guoshun Nan.'
-date: 2021-10
+date: 2021-10-26
 venue: 'Proceedings of the 30th ACM International Conference on Information & Knowledge Management'
 ---
 

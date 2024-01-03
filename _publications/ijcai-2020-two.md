@@ -3,7 +3,7 @@ title: "Two-Phase Hypergraph Based Reasoning with Dynamic Relations for Multi-Ho
 collection: publications
 permalink: /publication/ijcai-2020-two
 excerpt: '**Jiale Han**, Bo Cheng, Xu Wang.'
-date: 2020-11
+date: 2020-11-11
 venue: 'Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence'
 ---
 

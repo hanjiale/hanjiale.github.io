@@ -3,7 +3,7 @@ title: "Open Domain Question Answering based on Text Enhanced Knowledge Graph wi
 collection: publications
 permalink: /publication/emnlp-2020-open
 excerpt: '**Jiale Han**, Bo Cheng, and Xu Wang.'
-date: 2020-11
+date: 2020-11-16
 venue: 'Findings of the Association for Computational Linguistics: EMNLP 2020'
 ---
 

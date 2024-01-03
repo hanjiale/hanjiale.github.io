@@ -3,7 +3,7 @@ title: "Exploring Task Difficulty for Few-Shot Relation Extraction"
 collection: publications
 permalink: /publication/emnlp-2021-exploring
 excerpt: '**Jiale Han**, Bo Cheng, and Wei Lu.'
-date: 2021-11
+date: 2021-11-07
 venue: 'Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing'
 ---
 

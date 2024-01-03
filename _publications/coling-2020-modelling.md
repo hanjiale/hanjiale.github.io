@@ -3,7 +3,7 @@ title: "Modelling Long-distance Node Relations for KBQA with Global Dynamic Grap
 collection: publications
 permalink: /publication/coling-2020-modelling
 excerpt: 'Xu Wang, Shuai Zhao, **Jiale Han**, Bo Cheng, Hao Yang, Jianchang Ao, and Zhenzi Li.'
-date: 2020-12
+date: 2020-12-08
 venue: 'Proceedings of the 28th International Conference on Computational Linguistics'
 ---
 
