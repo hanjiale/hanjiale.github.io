@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-:wave: Hi there!
+&#128075 Hi there!
 
 My current research focuses on natural language processing (NLP), information extraction, question answering, and LLM reasoning. 
 I received my Ph.D. degree from BUPT in 2023. During my Ph.D., I visited [StatNLP](https://istd.sutd.edu.sg/people/faculty/lu-wei) as a visiting research fellow at SUTD.
