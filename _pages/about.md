@@ -16,16 +16,4 @@ Before that, I received my Bachelor degree from Xidian University in 2018.
 
 Here are my [CV](https://hanjiale.github.io/cv/) and [Publications](https://hanjiale.github.io/publications/).
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=1-VHjMWjv_T_7OD7YwrBMGnwhoYkedc_-0wCnExqZIw&cl=ffffff&w=a"></script>
-<script type="text/javascript">
-   function resizeMap() {
-      var map = document.getElementById('mapmyvisitors');
-      if (map) {
-         map.style.width = '100px';
-         map.style.height = '60px';
-      }
-   }
-   window.onload = function() {
-      resizeMap();
-   };
-</script>
+<a href='https://mapmyvisitors.com/web/1bvon'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=n&d=1-VHjMWjv_T_7OD7YwrBMGnwhoYkedc_-0wCnExqZIw'/></a>
