@@ -6,6 +6,7 @@ excerpt: 'Deyan Xie, Xiangdong Zhang, Quanxue Gao, **Jiale Han**, Song Xiao, and
 date: 2019-06-26
 venue: 'IEEE Transactions on Cybernetics'
 ---
+Deyan Xie, Xiangdong Zhang, Quanxue Gao, **Jiale Han**, Song Xiao, and Xinbo Gao.
 
 [pdf](https://ieeexplore.ieee.org/document/8746824)
 

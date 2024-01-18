@@ -6,6 +6,7 @@ excerpt: 'Xu Wang, Shuai Zhao, **Jiale Han**, Bo Cheng, Hao Yang, Jianchang Ao, 
 date: 2020-12-08
 venue: 'Proceedings of the International Conference on Computational Linguistics (COLING)'
 ---
+Xu Wang, Shuai Zhao, **Jiale Han**, Bo Cheng, Hao Yang, Jianchang Ao, and Zhenzi Li.
 
 [pdf](https://aclanthology.org/2020.coling-main.231/)
 

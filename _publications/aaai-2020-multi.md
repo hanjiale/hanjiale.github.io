@@ -6,6 +6,7 @@ excerpt: 'Xu Wang, Shuai Zhao, Bo Cheng, **Jiale Han**, Yingting Li, Hao Yang, a
 date: 2020-04-03
 venue: 'Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)'
 ---
+Xu Wang, Shuai Zhao, Bo Cheng, **Jiale Han**, Yingting Li, Hao Yang, and Guoshun Nan.
 
 [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/7249)
 

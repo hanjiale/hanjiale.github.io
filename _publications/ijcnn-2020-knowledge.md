@@ -6,6 +6,7 @@ excerpt: 'Xu Wang, Shuai Zhao, Bo Cheng, **Jiale Han**, Xiangsheng Wei, Yi Liang
 date: 2020-07-19
 venue: 'International Joint Conference on Neural Networks (IJCNN)'
 ---
+Xu Wang, Shuai Zhao, Bo Cheng, **Jiale Han**, Xiangsheng Wei, Yi Liang, and Hao Yang.
 
 [pdf](https://ieeexplore.ieee.org/document/9207441)
 

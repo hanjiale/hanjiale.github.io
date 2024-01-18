@@ -6,6 +6,7 @@ excerpt: '**Jiale Han**, Shuai Zhao, Bo Cheng, Shengkun Ma, and Wei Lu.'
 date: 2022-12-07
 venue: 'Findings of the Association for Computational Linguistics: EMNLP 2022'
 ---
+**Jiale Han**, Shuai Zhao, Bo Cheng, Shengkun Ma, and Wei Lu.
 
 [pdf](https://aclanthology.org/2022.findings-emnlp.231/)
 [code](https://github.com/hanjiale/GenPT)

@@ -6,6 +6,7 @@ excerpt: '**Jiale Han**, Bo Cheng, Xu Wang.'
 date: 2020-04-03
 venue: 'Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)'
 ---
+**Jiale Han**, Bo Cheng, Xu Wang.
 
 [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/7172)
 
