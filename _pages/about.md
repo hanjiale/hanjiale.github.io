@@ -14,6 +14,18 @@ My current research focuses on natural language processing (NLP), information ex
 I received my Ph.D. degree from BUPT in 2023. During my Ph.D., I visited [StatNLP](https://istd.sutd.edu.sg/people/faculty/lu-wei) as a visiting research fellow at SUTD.
 Before that, I received my Bachelor degree from Xidian University in 2018.
 
-Here are my [Publications](https://hanjiale.github.io/publications/) and [CV](https://hanjiale.github.io/cv/).
+Here are my [CV](https://hanjiale.github.io/cv/) and [Publications](https://hanjiale.github.io/publications/).
 
+<script type="text/javascript">
+   function resizeMap() {
+      var map = document.getElementById('mapmyvisitors');
+      if (map) {
+         map.style.width = '200px';
+         map.style.height = '150px';
+      }
+   }
+   window.onload = function() {
+      resizeMap();
+   };
+</script>
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=1-VHjMWjv_T_7OD7YwrBMGnwhoYkedc_-0wCnExqZIw&cl=ffffff&w=a"></script>
