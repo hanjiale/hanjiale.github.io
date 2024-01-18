@@ -20,8 +20,8 @@ Here are my [CV](https://hanjiale.github.io/cv/) and [Publications](https://hanj
    function resizeMap() {
       var map = document.getElementById('mapmyvisitors');
       if (map) {
-         map.style.width = '200px';
-         map.style.height = '150px';
+         map.style.width = '100px';
+         map.style.height = '60px';
       }
    }
    window.onload = function() {
