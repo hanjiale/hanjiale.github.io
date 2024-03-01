@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My current [CV](/files/CV_Jiale.pdf) (updated Jan 2024)
+My current [CV](/files/CV_Jiale.pdf) (updated Feb 2024)
 
 Education
 ======
@@ -34,11 +34,11 @@ Academic Services
 ======
 * Conference Program Committee:
   
-  ACL ARR 2023, NLPCC 2023, EMNLP 2022, COLING 2022, NLPCC 2022, ACL ARR 2021, NLPCC 2021.
+  COLING 2024, ACL ARR 2024, ACL ARR 2023, NLPCC 2023, EMNLP 2022, COLING 2022, NLPCC 2022, ACL ARR 2021, NLPCC 2021.
 
 * Journal Reviewer:
   
-  TNNLS, TALLIP, TJSC, J. Intell. Fuzzy Syst., J. Supercomputing, Multimedia Systems
+  TKDD, TNNLS, TALLIP, TJSC, J. Intell. Fuzzy Syst., J. Supercomputing, Multimedia Systems
   
 Skills
 ======
