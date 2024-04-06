@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/naacl-2024-cmtts
 excerpt: 'Xiang Li, Fan Bu, Ambuj Mehrish, Yingting Li, **Jiale Han**, Bo Cheng, Soujanya Poria.'
 date: 2024-03-31
-venue: 'Findings of the Association for Computational Linguistics (NAACL Findings).'
+venue: 'Findings of the Association for Computational Linguistics (NAACL Findings)'
 ---
 Xiang Li, Fan Bu, Ambuj Mehrish, Yingting Li, **Jiale Han**, Bo Cheng, Soujanya Poria.
 
