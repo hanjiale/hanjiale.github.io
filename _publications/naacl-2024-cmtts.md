@@ -3,8 +3,8 @@ title: "CM-TTS: Enhancing Real Time Text-to-Speech Synthesis Efficiency through 
 collection: publications
 permalink: /publication/naacl-2024-cmtts
 excerpt: 'Xiang Li, Fan Bu, Ambuj Mehrish, Yingting Li, **Jiale Han**, Bo Cheng, Soujanya Poria.'
-date: 2024-02-24
-venue: 'Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING)'
+date: 2024-03-31
+venue: 'Findings of the Association for Computational Linguistics (NAACL Findings).'
 ---
 Xiang Li, Fan Bu, Ambuj Mehrish, Yingting Li, **Jiale Han**, Bo Cheng, Soujanya Poria.
 
