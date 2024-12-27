@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Research Interests:
 * AI for Finance
 * Retrieval-Augmented Generation
