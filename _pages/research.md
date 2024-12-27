@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests:
+* AI for Finance
+* Retrieval-Augmented Generation
+* Knowledge Graph Construction and Reasoning
+
+
 Education
 ======
 * Ph.D in Computer Science, Beijing University of Posts and Telecommunications, 2018 -- 2023
@@ -28,6 +34,7 @@ Publications
   {% endfor %}</ul>
 
   
+
 Working Papers
 ======
 * Hypergraph Modeling of Supply Chains: Unveiling the Impact of High-Order and Temporal Dynamics on Credit Risk Prediction 
@@ -41,12 +48,13 @@ Academic Services
 ======
 * Conference Program Committee:
   
-  COLING 2024, ACL ARR 2024, ACL ARR 2023, NLPCC 2023, EMNLP 2022, COLING 2022, NLPCC 2022, ACL ARR 2021, NLPCC 2021.
+  COLING 2025, ACL ARR 2024, COLING 2024, ACL ARR 2023, NLPCC 2023, EMNLP 2022, COLING 2022, NLPCC 2022, ACL ARR 2021, NLPCC 2021.
 
 * Journal Reviewer:
   
-  TKDD, TNNLS, TALLIP, TJSC, J. Intell. Fuzzy Syst., J. Supercomputing, Multimedia Systems
+  TKDD, TNNLS, TALLIP, TJSC, Artificial Intelligence, J. Intell. Fuzzy Syst., J. Supercomputing, Multimedia Systems
   
+
 Skills
 ======
 * Language
