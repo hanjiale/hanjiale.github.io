@@ -1,0 +1,61 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+Education
+======
+* Ph.D in Computer Science, Beijing University of Posts and Telecommunications, 2018 -- 2023
+* B.S. in Telecommunications Engineering, Xidian University, 2014 -- 2018
+
+
+Research Experience
+======
+* Visiting Research Fellow, September 2021 -- March 2023
+  * Singapore University of Technology and Design, advised by Professor Wei Lu.
+  
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+  
+Working Papers
+======
+* Hypergraph Modeling of Supply Chains: Unveiling the Impact of High-Order and Temporal Dynamics on Credit Risk Prediction 
+  
+  Han, Jiale; Yang, Yi; Fan, Yangyang; Zhang, Zhongju 
+  
+  Under Review
+
+
+Academic Services
+======
+* Conference Program Committee:
+  
+  COLING 2024, ACL ARR 2024, ACL ARR 2023, NLPCC 2023, EMNLP 2022, COLING 2022, NLPCC 2022, ACL ARR 2021, NLPCC 2021.
+
+* Journal Reviewer:
+  
+  TKDD, TNNLS, TALLIP, TJSC, J. Intell. Fuzzy Syst., J. Supercomputing, Multimedia Systems
+  
+Skills
+======
+* Language
+  * Mandarin (native language)
+  * English (working proficiency)
+* Programming
+  * Python
+  * Java / MATLAB / C
+
+Awards
+=====
+* Outstanding Graduate Award of BUPT, 2023
