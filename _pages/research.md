@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
-Research Interests:
+Research Interests
+======
 * AI for Finance
 * Retrieval-Augmented Generation
 * Knowledge Graph Construction and Reasoning
@@ -36,13 +37,12 @@ Publications
 
   
 
+
 Working Papers
 ======
-* Hypergraph Modeling of Supply Chains: Unveiling the Impact of High-Order and Temporal Dynamics on Credit Risk Prediction 
-  
-  Han, Jiale; Yang, Yi; Fan, Yangyang; Zhang, Zhongju 
-  
-  Under Review
++ Hypergraph Modeling of Supply Chains: Unveiling the Impact of High-Order and Temporal Dynamics on Credit Risk Prediction    
+Han, Jiale; Yang, Yi; Fan, Yangyang; Zhang, Zhongju    
+Under Review     
 
 
 Academic Services
