@@ -8,8 +8,249 @@
 
 
 <url>
+  <loc>https://hanjiale.github.io/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
   <loc>https://hanjiale.github.io/research/</loc>
-  <lastmod>2024-12-30T06:53:16+00:00</lastmod>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/publications/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/cv/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/sitemap/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/publication/tcyb-2019-multiview</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/publication/aaai-2020-hypergraph</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/publication/aaai-2020-multi</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/publication/ijcnn-2020-knowledge</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/publication/ijcai-2020-two</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/publication/emnlp-2020-open</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/publication/coling-2020-modelling</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/publication/icassp-2021-integrating</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/publication/cikm-2021-learning</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/publication/emnlp-2021-exploring</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/publication/emnlp-2022-generative</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/publication/tkde-2023-towards</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/publication/coling-2024-making</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/publication/naacl-2024-cmtts</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/files/CV_Jiale.pdf</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/404.html</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/archive-layout-with-content/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/categories/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/collection-archive/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/markdown/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/non-menu-page/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/page-archive/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/portfolio/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/tags/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/talkmap.html</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/talks/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/teaching/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/terms/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/year-archive/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/markdown_generator/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/robots.txt</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/posts/2012/08/blog-post-4/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/posts/2014/08/blog-post-3/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/posts/2013/08/blog-post-2/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/posts/2012/08/blog-post-1/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/portfolio/portfolio-1/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/portfolio/portfolio-2/</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/talks/2012-03-01-talk-1</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/talks/2013-03-01-tutorial-1</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/talks/2014-02-01-talk-2</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/talks/2014-03-01-talk-3</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/teaching/2014-spring-teaching-1</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/teaching/2015-spring-teaching-1</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://hanjiale.github.io/talkmap/map.html</loc>
+  <lastmod>2024-12-30T08:34:20+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 
 
