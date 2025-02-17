@@ -47,7 +47,7 @@ Academic Services
 ======
 * Conference Program Committee:
   
-  COLING 2025, ACL ARR 2024, COLING 2024, ACL ARR 2023, NLPCC 2023, EMNLP 2022, COLING 2022, NLPCC 2022, ACL ARR 2021, NLPCC 2021.
+  ICLR 2025, ACL ARR 2025, ICME 2025, COLING 2025, ACL ARR 2024, COLING 2024, ACL ARR 2023, NLPCC 2023, EMNLP 2022, COLING 2022, NLPCC 2022, ACL ARR 2021, NLPCC 2021.
 
 * Journal Reviewer:
   
@@ -63,6 +63,8 @@ Skills
   * Python
   * Java / MATLAB / C
 
+
 Awards
 =====
+* Outstanding Paper, the 31st International Conference on Computational Linguistics, 2025
 * Outstanding Graduate Award of BUPT, 2023
