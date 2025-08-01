@@ -39,8 +39,13 @@ Publications
 Working Papers
 ======
 + Hypergraph Modeling of Supply Chains: Unveiling the Impact of High-Order and Temporal Dynamics on Credit Risk Prediction    
-Han, Jiale; Yang, Yi; Fan, Yangyang; Zhang, Zhongju    
-Under Review     
+Jiale Han, Yi Yang, Yangyang Fan, Zhongju Zhang.   
+Major Revision
+  
+
++ HoneyImage: Verifiable, Harmless, and Stealthy Dataset Ownership Verification for Image Models.
+Zhihao Zhu, Jiale Han, Yi Yang.
+Under Review.
 
 
 Academic Services
