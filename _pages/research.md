@@ -29,16 +29,14 @@ Research Experience
 
 Working Papers
 ======
-+ Hypergraph Modeling of Supply Chains: Unveiling the Impact of High-Order and Temporal Dynamics on Credit Risk Prediction    
++ Hypergraph Modeling of Supply Chains: Unveiling the Impact of High-Order and Temporal Dynamics on Credit Risk Prediction.    
 Jiale Han, Yi Yang, Yangyang Fan, Zhongju Zhang.   
 Major Revision
   
-
-+ HoneyImage: Verifiable, Harmless, and Stealthy Dataset Ownership Verification for Image Models.
-Zhihao Zhu, Jiale Han, Yi Yang.
++ Hypergraph Modeling of Supply Chains: Unveiling the Impact of High-Order and Temporal Dynamics on Credit Risk Prediction.    
+Zhihao Zhu, Jiale Han, Yi Yang.  
 Under Review
-
-
+  
 
 Publications
 ======
