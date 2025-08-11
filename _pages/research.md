@@ -27,15 +27,6 @@ Research Experience
   * Singapore University of Technology and Design, advised by Professor [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei).
   
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-  
-
-
 Working Papers
 ======
 + Hypergraph Modeling of Supply Chains: Unveiling the Impact of High-Order and Temporal Dynamics on Credit Risk Prediction    
@@ -45,18 +36,27 @@ Major Revision
 
 + HoneyImage: Verifiable, Harmless, and Stealthy Dataset Ownership Verification for Image Models.
 Zhihao Zhu, Jiale Han, Yi Yang.
-Under Review.
+Under Review
+
+
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 
 
 Academic Services
 ======
 * Conference Program Committee:
   
-  ICLR 2025, ACL ARR 2025, ICME 2025, COLING 2025, ACL ARR 2024, COLING 2024, ACL ARR 2023, NLPCC 2023, EMNLP 2022, COLING 2022, NLPCC 2022, ACL ARR 2021, NLPCC 2021.
+  NeurIPS 2025, MM 2025, ICLR 2025, ACL ARR 2025, ICME 2025, COLING 2025, ACL ARR 2024, COLING 2024, ACL ARR 2023, NLPCC 2023, EMNLP 2022, COLING 2022, NLPCC 2022, ACL ARR 2021, NLPCC 2021.
 
 * Journal Reviewer:
   
-  TKDD, TNNLS, TALLIP, TJSC, Artificial Intelligence, J. Intell. Fuzzy Syst., J. Supercomputing, Multimedia Systems
+  Information Systems Research, INFORMS Journal on Computing, TKDD, TNNLS, TALLIP, TJSC, Artificial Intelligence, J. Intell. Fuzzy Syst., J. Supercomputing, Multimedia Systems
   
 
 Skills
