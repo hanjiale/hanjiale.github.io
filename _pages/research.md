@@ -13,11 +13,16 @@ author_profile: true
 * Knowledge Graph Construction and Reasoning
 
 
-Work Experience
+Research Experience
 ======
 * Post-doctoral Fellow, 2024 -- Present
   * School of Business and Management, Hong Kong University of Science and Technology, advised by Professor [Yi Yang](https://yya518.github.io/).
- 
+  
+
+* Visiting Research Fellow, September 2021 -- March 2023
+  * Singapore University of Technology and Design, advised by Professor [Wei Lu](https://www.sutd.edu.sg/profile/lu-wei).
+
+
  
 Education
 ======
@@ -25,10 +30,6 @@ Education
   * advised by Professor [Bo Cheng](https://teacher.bupt.edu.cn/chengbo/en/).
 * B.S. in Telecommunications Engineering, Xidian University, 2014 -- 2018
 
-Research Experience
-======
-* Visiting Research Fellow, September 2021 -- March 2023
-  * Singapore University of Technology and Design, advised by Professor [Wei Lu](https://www.sutd.edu.sg/profile/lu-wei).
 
 
 Working Papers
@@ -119,14 +120,6 @@ Academic Services
   Information Systems Research, INFORMS Journal on Computing, TKDD, TNNLS, TALLIP, TJSC, Artificial Intelligence, J. Intell. Fuzzy Syst., J. Supercomputing, Multimedia Systems
   
 
-Skills
-======
-* Language
-  * Mandarin (native language)
-  * English (working proficiency)
-* Programming
-  * Python
-  * Java / MATLAB / C
 
 
 Awards
