@@ -15,17 +15,23 @@ Research Interests
 * Knowledge Graph Construction and Reasoning
 
 
+Work Experience
+======
+* Post-doctoral Fellow, 2024 -- Present
+  * School of Business and Management, Hong Kong University of Science and Technology, advised by Professor [Yi Yang](https://yya518.github.io/).
+ 
+ 
 Education
 ======
 * Ph.D in Computer Science, Beijing University of Posts and Telecommunications, 2018 -- 2023
+  * advised by Professor [Bo Cheng](https://teacher.bupt.edu.cn/chengbo/en/).
 * B.S. in Telecommunications Engineering, Xidian University, 2014 -- 2018
-
 
 Research Experience
 ======
 * Visiting Research Fellow, September 2021 -- March 2023
   * Singapore University of Technology and Design, advised by Professor [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei).
-  
+
 
 Working Papers
 ======
@@ -33,19 +39,70 @@ Working Papers
 Jiale Han, Yi Yang, Yangyang Fan, Zhongju Zhang.   
 Major Revision
   
+
 + HoneyImage: Verifiable, Harmless, and Stealthy Dataset Ownership Verification for Image Models.    
 Zhihao Zhu, Jiale Han, Yi Yang.  
 Under Review
   
 
-Publications
+
+Selected Publications
 ======
-  <ul>
-  {% assign pubs = site.publications | sort: 'date' | reverse %}
-  {% for post in pubs %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
-  </ul>
+<sup>*</sup> Equal contribution, <sup>†</sup> Corresponding author
+
++ DLP: Dynamic Layerwise Pruning in Large Language Models.    
+Yuli Chen, Bo Cheng<sup>†</sup>, Jiale Han<sup>†</sup>, Yingying Zhang, Yingting Li, Shuhao Zhang.  
+In the International Conference on Machine Learning, 2025 (ICML).
+  
+
++ Adapting General-Purpose Embedding Models to Private Datasets Using Keyword-based Retrieval.    
+Yubai Wei, Jiale Han, Yi Yang.   
+In the Findings of the Association for Computational Linguistics, 2025 (ACL Findings).
+
+
++ Explain-Analyze-Generate: A Sequential Multi-Agent Collaboration Method for Complex Reasoning.  
+Wenyuan Gu<sup>*</sup>, Jiale Han<sup>*</sup>, Haowen Wang, Xiang Li, Bo Cheng.  
+In the Joint International Conference on Computational Linguistics, Language Resources and Evaluation, 2025 (COLING ).
+
+
++ VideoQA-TA: Temporal-Aware Multi-Modal Video Question Answering.  
+Zhixuan Wu, Bo Cheng, Jiale Han, Jiabao Ma, Shuhao Zhang, Yuli Chen, Changbo Li.  
+In the Joint International Conference on Computational Linguistics, Language Resources and Evaluation, 2025 (COLING). ***Outstanding Paper***.
+  
+
++ Towards Hard Few-Shot Relation Classification.  
+Jiale Han, Bo Cheng, Zhiguo Wan, Wei Lu.  
+In the IEEE Transactions on Knowledge and Data Engineering, 2023 (TKDE).
+  
+
++ Generative Prompt Tuning for Relation Classification.  
+Jiale Han, Shuai Zhao, Bo Cheng, Shengkun Ma, Wei Lu.  
+In the Findings of the Association for Computational Linguistics: EMNLP, 2022 (EMNLP Findings).  
+  
+
++ Exploring Task Difficulty for Few-Shot Relation Extraction.  
+Jiale Han, Bo Cheng, Wei Lu.  
+In the Conference on Empirical Methods in Natural Language Processing, 2021 (EMNLP).
+  
+
++ Learning Discriminative and Unbiased Representations for Few-Shot Relation Extraction.  
+Jiale Han, Bo Cheng, Guoshun Nan.  
+In the ACM International Conference on Information and Knowledge Management, 2021 (CIKM).
+  
+
++ Open Domain Question Answering based on Text Enhanced Knowledge Graph with Hyperedge Infusion.  
+Jiale Han, Bo Cheng, Xu Wang.  
+In the Findings of the Association for Computational Linguistics: EMNLP, 2020 (EMNLP Findings).
+  
+
++ Two-Phase Hypergraph based Reasoning with Dynamic Relations for Multi-Hop KBQA.  
+Jiale Han, Bo Cheng, Xu Wang.  
+In the International Joint Conferences on Artificial Intelligence, 2020 (IJCAI).
+  
+
++ Hypergraph Convolutional Network for Multi-Hop Knowledge Base Question Answering.
+Jiale Han, Bo Cheng, Xu Wang.  
+In the AAAI Conference on Artificial Intelligence, 2020 (AAAI).
 
 
 
@@ -55,6 +112,7 @@ Academic Services
 * Conference Program Committee:
   
   NeurIPS 2025, MM 2025, ICLR 2025, ACL ARR 2025, ICME 2025, COLING 2025, ACL ARR 2024, COLING 2024, ACL ARR 2023, NLPCC 2023, EMNLP 2022, COLING 2022, NLPCC 2022, ACL ARR 2021, NLPCC 2021.
+
 
 * Journal Reviewer:
   
