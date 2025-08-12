@@ -8,8 +8,6 @@ author_profile: true
 {% include base_path %}
 
 
-Research Interests
-======
 * AI for Finance
 * Retrieval-Augmented Generation
 * Knowledge Graph Construction and Reasoning
@@ -48,7 +46,9 @@ Under Review
 
 Selected Publications
 ======
-<sup>*</sup> Equal contribution, <sup>†</sup> Corresponding author
+<sup>*</sup> Equal contribution, <sup>†</sup> Corresponding author.
+Full list of publications available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=itFycmoAAAAJ).
+
 
 + DLP: Dynamic Layerwise Pruning in Large Language Models.    
 Yuli Chen, Bo Cheng<sup>†</sup>, Jiale Han<sup>†</sup>, Yingying Zhang, Yingting Li, Shuhao Zhang.  
