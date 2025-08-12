@@ -30,7 +30,7 @@ Education
 Research Experience
 ======
 * Visiting Research Fellow, September 2021 -- March 2023
-  * Singapore University of Technology and Design, advised by Professor [Wei Lu](https://istd.sutd.edu.sg/people/faculty/lu-wei).
+  * Singapore University of Technology and Design, advised by Professor [Wei Lu](https://www.sutd.edu.sg/profile/lu-wei).
 
 
 Working Papers
