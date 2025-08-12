@@ -40,9 +40,13 @@ Under Review
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>
+  {% assign pubs = site.publications | sort: 'date' | reverse %}
+  {% for post in pubs %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
+  </ul>
+
 
 
 

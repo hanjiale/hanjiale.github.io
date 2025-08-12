@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="aa710817-f699-4b25-87b4-684279dd65c6" name="a40">
+        <fileTransfer rootFolder="/home/hanjiale" accessType="SFTP" sshConfigId="0d3155c6-351e-456a-b11d-b01174e87be6" sshConfig="iteist@111.203.246.106:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="a8fdcf71-7e12-49fa-b89d-2dc7e565ca24" name="shang">
+        <fileTransfer rootFolder="/home/iteist" accessType="SFTP" sshConfigId="0d3155c6-351e-456a-b11d-b01174e87be6" sshConfig="iteist@111.203.246.106:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="ef5117ee-1925-474f-af52-d84e8c54bf84" name="ust339">
+        <fileTransfer rootFolder="/home/jialehan" accessType="SFTP" host="imz339.ust.hk" port="22" sshConfigId="fad7c932-0afe-49ce-b5fc-01c7b1887eeb" sshConfig="jialehan@imz339.ust.hk:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

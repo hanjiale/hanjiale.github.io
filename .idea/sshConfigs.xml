@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="imz339.ust.hk" id="fad7c932-0afe-49ce-b5fc-01c7b1887eeb" port="22" nameFormat="DESCRIPTIVE" username="jialehan" />
+    </configs>
+  </component>
+</project>
