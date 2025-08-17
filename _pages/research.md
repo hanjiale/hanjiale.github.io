@@ -101,7 +101,7 @@ Jiale Han, Bo Cheng, Xu Wang.
 In the International Joint Conferences on Artificial Intelligence, 2020 (IJCAI).
   
 
-+ Hypergraph Convolutional Network for Multi-Hop Knowledge Base Question Answering.
++ Hypergraph Convolutional Network for Multi-Hop Knowledge Base Question Answering.  
 Jiale Han, Bo Cheng, Xu Wang.  
 In the AAAI Conference on Artificial Intelligence, 2020 (AAAI).
 
@@ -110,13 +110,11 @@ In the AAAI Conference on Artificial Intelligence, 2020 (AAAI).
 
 Academic Services
 ======
-* Conference Program Committee:
-  
+* Conference Program Committee:  
   NeurIPS 2025, MM 2025, ICLR 2025, ACL ARR 2025, ICME 2025, COLING 2025, ACL ARR 2024, COLING 2024, ACL ARR 2023, NLPCC 2023, EMNLP 2022, COLING 2022, NLPCC 2022, ACL ARR 2021, NLPCC 2021.
 
 
-* Journal Reviewer:
-  
+* Journal Reviewer:  
   Information Systems Research, INFORMS Journal on Computing, TKDD, TNNLS, TALLIP, TJSC, Artificial Intelligence, J. Intell. Fuzzy Syst., J. Supercomputing, Multimedia Systems
   
 
