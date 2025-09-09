@@ -107,7 +107,7 @@ Jiale Han, Bo Cheng, Xu Wang.
 In the International Joint Conferences on Artificial Intelligence, 2020 (IJCAI).
   
 
-+ Hypergraph Convolutional Network for Multi-Hop Knowledge Base Question Answering.
++ Hypergraph Convolutional Network for Multi-Hop Knowledge Base Question Answering.  
 Jiale Han, Bo Cheng, Xu Wang.  
 In the AAAI Conference on Artificial Intelligence, 2020 (AAAI).
 
