@@ -14,7 +14,7 @@ author_profile: true
 
 ---
 
-## 🔬 Research Experience
+## 👩‍💻‍ Research Experience
 
 - Post-doctoral Fellow, 2024 -- Present   
   *School of Business and Management, Hong Kong University of Science and Technology*   
