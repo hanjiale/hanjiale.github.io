@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiale Han"
 title_separator          : "-"
 name                     : "Jiale Han"
-description              : "AI × Business"
+description              : # "AI × Business"
 url                      : https://hanjiale.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hanjiale/hanjiale.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiale Han (韩佳乐)"
   avatar           : "profile.png"
-  bio              : "NLPer"
+  bio              : "AI × Business"
   location         : "Hong Kong"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=itFycmoAAAAJ"
