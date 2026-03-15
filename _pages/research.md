@@ -8,9 +8,20 @@ author_profile: true
 {% include base_path %}
 
 ## 🌟 Research Interests
-* AI for Finance
-* Retrieval-Augmented Generation
-* Knowledge Graph Construction and Reasoning
+My current research lies at the intersection of Artificial Intelligence and Business, with a focus on large language models and graph-learning methods for understanding dynamic business systems.
+
+Methodological Areas: 
+- Natural Language Processing (NLP)  
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Knowledge Graphs
+
+Applied Areas:
+- Supply Chain Networks
+- Corporate Credit Risk
+- Business Decision Support
+- Financial Text Analysis
+
 
 ---
 
@@ -42,12 +53,17 @@ author_profile: true
 
 + Hypergraph Modeling of Supply Chains: Unveiling the Impact of High-Order and Temporal Dynamics on Credit Risk Prediction.    
 Jiale Han, Yi Yang, Yangyang Fan, Zhongju Zhang.   
-Major Revision
+*Major Revision*.
   
 
 + HoneyImage: Verifiable, Harmless, and Stealthy Dataset Ownership Verification for Image Models.    
 Zhihao Zhu, Jiale Han, Yi Yang.  
-Under Review
+*Under Review*.
+  
+  
++ RAG Meets Temporal Graphs: Time-Sensitive Modeling and Retrieval for Evolving Knowledge.    
+Jiale Han, Austin Cheung, Yubai Wei, Zheng Yu, Xusheng Wang, Bing Zhu, Yi Yang.  
+*Under Review*.
   
 ---
 
@@ -56,15 +72,14 @@ Under Review
 <sup>*</sup> Equal contribution, <sup>†</sup> Corresponding author.
 Full list of publications available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=itFycmoAAAAJ).
 
-
 + DLP: Dynamic Layerwise Pruning in Large Language Models.    
 Yuli Chen, Bo Cheng<sup>†</sup>, Jiale Han<sup>†</sup>, Yingying Zhang, Yingting Li, Shuhao Zhang.  
-In the International Conference on Machine Learning, 2025 (ICML).
+In the International Conference on Machine Learning (ICML), 2025.
   
 
 + Adapting General-Purpose Embedding Models to Private Datasets Using Keyword-based Retrieval.    
 Yubai Wei, Jiale Han, Yi Yang.   
-In the Findings of the Association for Computational Linguistics, 2025 (ACL Findings).
+In the Findings of the Association for Computational Linguistics (ACL Findings), 2025.
 
 
 + Explain-Analyze-Generate: A Sequential Multi-Agent Collaboration Method for Complex Reasoning.  
@@ -115,19 +130,30 @@ In the AAAI Conference on Artificial Intelligence, 2020 (AAAI).
 
 
 ## ✒️ Academic Services
+### Services in Business and Information Systems
+
+* Journal Reviewer: MIS Quarterly, Information Systems Research, INFORMS Journal on Computing.
+
+### Services in AI
+
+* Area Chair:  ACL ARR 2026, 2025.
+
+
 * Conference Program Committee:
-  
-  NeurIPS 2025, AAAI 2025, MM 2025, ICLR 2025, ACL ARR 2025, IJCAI 2025, ICME 2025, COLING 2025, ACL ARR 2024, COLING 2024, ACL ARR 2023, NLPCC 2023, EMNLP 2022, COLING 2022, NLPCC 2022, ACL ARR 2021, NLPCC 2021.
+
+  ICML 2026, ICASSP 2026,  
+  NeurIPS 2025, AAAI 2025, MM 2025, ICLR 2025, ACL ARR 2025, IJCAI 2025, ICME 2025, COLING 2025,  
+  ACL ARR 2024, COLING 2024, NLPCC 2024, WiNLP 2024,  
+  ACL ARR 2023, NLPCC 2023,  
+  EMNLP 2022, COLING 2022, NLPCC 2022,  
+  ACL ARR 2021, NLPCC 2021.
 
 
 * Journal Reviewer:
   
-  MIS Quarterly, Information Systems Research, INFORMS Journal on Computing, 
-  TKDD, TNNLS, TALLIP, TJSC, Artificial Intelligence, J. Intell. Fuzzy Syst., J. Supercomputing, Multimedia Systems
-  
+  ACM Transactions on Knowledge Discovery from Data, ACM Transactions on Asian and Low-Resource Language Information Processing, IEEE Transactions on Neural Networks and Learning Systems. 
 ---
 
-
 ## 🏆 Awards
-* Outstanding Paper, the 31st International Conference on Computational Linguistics, 2025
+* **Outstanding Paper**, the 31st International Conference on Computational Linguistics, 2025
 * Outstanding Graduate Award of BUPT, 2023
