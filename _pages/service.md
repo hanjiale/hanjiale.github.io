@@ -18,8 +18,7 @@ author_profile: true
 * Area Chair:  ACL ARR 2026, 2025.
 
 
-* Conference Program Committee:
-
+* Conference Program Committee:  
   ICML 2026, ICASSP 2026,  
   NeurIPS 2025, AAAI 2025, MM 2025, ICLR 2025, ACL ARR 2025, IJCAI 2025, ICME 2025, COLING 2025,  
   ACL ARR 2024, COLING 2024, NLPCC 2024, WiNLP 2024,  
