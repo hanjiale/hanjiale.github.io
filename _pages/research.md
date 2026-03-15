@@ -84,75 +84,50 @@ In the Findings of the Association for Computational Linguistics (ACL Findings),
 
 + Explain-Analyze-Generate: A Sequential Multi-Agent Collaboration Method for Complex Reasoning.  
 Wenyuan Gu<sup>*</sup>, Jiale Han<sup>*</sup>, Haowen Wang, Xiang Li, Bo Cheng.  
-In the Joint International Conference on Computational Linguistics, Language Resources and Evaluation, 2025 (COLING ).
+In the Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING), 2025.
 
 
 + VideoQA-TA: Temporal-Aware Multi-Modal Video Question Answering.  
 Zhixuan Wu, Bo Cheng, Jiale Han, Jiabao Ma, Shuhao Zhang, Yuli Chen, Changbo Li.  
-In the Joint International Conference on Computational Linguistics, Language Resources and Evaluation, 2025 (COLING). 🏅***Outstanding Paper***.
+In the Joint International Conference on Computational Linguistics, Language Resources and Evaluation (COLING), 2025. 🏅***Outstanding Paper***.
   
 
 + Towards Hard Few-Shot Relation Classification.  
 Jiale Han, Bo Cheng, Zhiguo Wan, Wei Lu.  
-In the IEEE Transactions on Knowledge and Data Engineering, 2023 (TKDE).
+In the IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023.
   
 
 + Generative Prompt Tuning for Relation Classification.  
 Jiale Han, Shuai Zhao, Bo Cheng, Shengkun Ma, Wei Lu.  
-In the Findings of the Association for Computational Linguistics: EMNLP, 2022 (EMNLP Findings).  
+In the Findings of the Association for Computational Linguistics: EMNLP (EMNLP Findings), 2022.  
   
 
 + Exploring Task Difficulty for Few-Shot Relation Extraction.  
 Jiale Han, Bo Cheng, Wei Lu.  
-In the Conference on Empirical Methods in Natural Language Processing, 2021 (EMNLP).
+In the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021.
   
 
 + Learning Discriminative and Unbiased Representations for Few-Shot Relation Extraction.  
 Jiale Han, Bo Cheng, Guoshun Nan.  
-In the ACM International Conference on Information and Knowledge Management, 2021 (CIKM).
+In the ACM International Conference on Information and Knowledge Management (CIKM), 2021.
   
 
 + Open Domain Question Answering based on Text Enhanced Knowledge Graph with Hyperedge Infusion.  
 Jiale Han, Bo Cheng, Xu Wang.  
-In the Findings of the Association for Computational Linguistics: EMNLP, 2020 (EMNLP Findings).
+In the Findings of the Association for Computational Linguistics: EMNLP (EMNLP Findings), 2020.
   
 
 + Two-Phase Hypergraph based Reasoning with Dynamic Relations for Multi-Hop KBQA.  
 Jiale Han, Bo Cheng, Xu Wang.  
-In the International Joint Conferences on Artificial Intelligence, 2020 (IJCAI).
+In the International Joint Conferences on Artificial Intelligence (IJCAI), 2020.
   
 
 + Hypergraph Convolutional Network for Multi-Hop Knowledge Base Question Answering.  
 Jiale Han, Bo Cheng, Xu Wang.  
-In the AAAI Conference on Artificial Intelligence, 2020 (AAAI).
+In the AAAI Conference on Artificial Intelligence (AAAI), 2020.
 
 ---
 
-
-## ✒️ Academic Services
-### Services in Business and Information Systems
-
-* Journal Reviewer: MIS Quarterly, Information Systems Research, INFORMS Journal on Computing.
-
-### Services in AI
-
-* Area Chair:  ACL ARR 2026, 2025.
-
-
-* Conference Program Committee:
-
-  ICML 2026, ICASSP 2026,  
-  NeurIPS 2025, AAAI 2025, MM 2025, ICLR 2025, ACL ARR 2025, IJCAI 2025, ICME 2025, COLING 2025,  
-  ACL ARR 2024, COLING 2024, NLPCC 2024, WiNLP 2024,  
-  ACL ARR 2023, NLPCC 2023,  
-  EMNLP 2022, COLING 2022, NLPCC 2022,  
-  ACL ARR 2021, NLPCC 2021.
-
-
-* Journal Reviewer:
-  
-  ACM Transactions on Knowledge Discovery from Data, ACM Transactions on Asian and Low-Resource Language Information Processing, IEEE Transactions on Neural Networks and Learning Systems. 
----
 
 ## 🏆 Awards
 * **Outstanding Paper**, the 31st International Conference on Computational Linguistics, 2025
