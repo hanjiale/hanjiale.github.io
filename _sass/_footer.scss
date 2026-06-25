@@ -20,16 +20,16 @@
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background-color: $lighter-gray;
-  border-top: 1px solid $light-gray;
+  background-color: transparent;
+  border-top: 1px solid mix(#fff, $border-color, 45%);
 
   footer {
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 1.25em;
+    margin-top: 0.75em;
     max-width: 100%;
-    padding: 0 1em 1.25em;
+    padding: 0 1em 1em;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -53,19 +53,9 @@
   }
 }
 
-.page__footer-visitor {
+.page__footer-note {
   font-family: $global-font-family;
   font-size: $type-size-6;
   line-height: 1.5;
   text-align: center;
-
-  strong {
-    color: $text-color;
-    font-weight: 700;
-  }
-}
-
-.page__footer-separator {
-  display: inline-block;
-  padding: 0 0.45em;
 }
