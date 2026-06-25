@@ -10,11 +10,14 @@ redirect_from:
 
 👋 Hi!
 
-I am Jiale Han. I am now a post-doctoral fellow at the Hong Kong University of Science and Technology, advised by Prof. [Yi Yang](https://yya518.github.io/). I received my Ph.D. degree from BUPT in 2023 and my Bachelor degree from Xidian University in 2018. 
+I am Jiale Han, a Research Assistant Professor at the center for AI for social science, Shenzhen Loop Area Institute (SLAI). Before joining SLAI, I was a post-doctoral fellow at the School of Business and Management, HKUST. I received my Ph.D. degree in Computer Science from BUPT in 2023, during which I was also a visiting Ph.D. student at SUTD. I received my Bachelor degree in Communication Engineering from XDU in 2018.
 
-I am broadly interested in natural language processing (NLP), large language models (LLMs), and their applications in the finance and business domain. My research focuses on developing effective and efficient techniques for representing and reasoning about semantic and structural information in plain text and structured graphs. 
-Feel free to contact me at [jialehan@ust.hk](mailto:jialehan@ust.hk) if you are interested in any discussions and collaborations!
+My research lies at the intersection of artificial intelligence and business. I am broadly interested in natural language processing (NLP), large language models (LLMs), AI agents, and their applications in economic and financial scenarios. With an interdisciplinary background in business school research and computer science, I am interested in developing AI methods that can understand, reason about, and support decision-making in complex business and financial systems.
 
+<div class="opening-card">
+  <p>📢 I am actively looking for potential collaborators, especially students passionate about AI research. If you are interested in working with me as a research assistant or research intern on AI for business and financial applications, please feel free to contact me at <a href="mailto:jialehan@slai.edu.cn">jialehan@slai.edu.cn</a>.</p>
+</div>
 
-
-<a href='https://mapmyvisitors.com/web/1bvon'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=n&d=1-VHjMWjv_T_7OD7YwrBMGnwhoYkedc_-0wCnExqZIw'/></a>
+<div class="visitor-map">
+  <a href="https://mapmyvisitors.com/web/1bvon" title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=n&d=1-VHjMWjv_T_7OD7YwrBMGnwhoYkedc_-0wCnExqZIw" alt=""></a>
+</div>

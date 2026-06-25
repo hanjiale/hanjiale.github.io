@@ -85,11 +85,17 @@
   img {
     max-width: 175px;
     border-radius: 50%;
+    box-shadow: 0 6px 18px rgba(#000, 0.08);
+    transition: box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      border: 1px solid mix(#fff, $border-color, 15%);
     }
+  }
+
+  &:hover img {
+    box-shadow: 0 8px 22px rgba(#000, 0.11);
   }
 }
 
@@ -123,10 +129,19 @@
 
 .author__bio {
   margin: 0;
+  display: inline-block;
+  padding: 0.16rem 0.46rem;
+  border: 1px solid mix(#fff, $link-color, 78%);
+  border-radius: 999px;
+  background: mix(#fff, $link-color, 96%);
+  color: mix(#000, $link-color, 18%);
+  font-size: $type-size-6;
+  font-weight: 700;
+  line-height: 1.35;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 4px;
+    margin-bottom: 18px;
   }
 }
 
@@ -218,20 +233,42 @@
 
   li {
     white-space: nowrap;
+    margin-bottom: 0.28rem;
+    color: mix(#fff, $text-color, 18%);
+  }
+
+  .author__icon {
+    width: 1em;
+    height: 1em;
+    margin-right: 0.35em;
+    vertical-align: -0.125em;
+    color: mix(#fff, $text-color, 25%);
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+
+  .author__icon--fill {
+    fill: currentColor;
+    stroke: none;
   }
 
   a {
-    display: block;
-    margin-bottom: 5px;
+    display: inline-block;
+    margin-bottom: 0;
     padding-right: 5px;
     padding-top: 2px;
     padding-bottom: 2px;
-    color: inherit;
+    color: mix(#fff, $text-color, 16%);
     font-size: $type-size-5;
     text-decoration: none;
+    transition: color 0.15s ease-in-out;
 
     &:hover {
-      text-decoration: underline;
+      color: $link-color-hover;
+      text-decoration: none;
     }
   }
 }

@@ -9,23 +9,45 @@ author_profile: true
 
 
 ## ✒️ Academic Services
-### Services in Business and Information Systems
 
-* Journal Reviewer: MIS Quarterly, Information Systems Research, INFORMS Journal on Computing.
+<section class="service-panel">
+  <h3>Business and Information Systems</h3>
+  <div class="service-item">
+    <div class="service-label">Journal Reviewer</div>
+    <div class="service-content">MIS Quarterly, Information Systems Research, INFORMS Journal on Computing.</div>
+  </div>
+</section>
 
-### Services in AI
+<section class="service-panel">
+  <h3>AI</h3>
 
-* Area Chair:  ACL ARR 2026, 2025.
+  <div class="service-item">
+    <div class="service-label">Area Chair</div>
+    <div class="service-content">ACL ARR 2026, 2025.</div>
+  </div>
 
+  <div class="service-item">
+    <div class="service-label">Conference Program Committee</div>
+    <div class="service-content">
+      ICML 2026, ICASSP 2026;<br>
+      NeurIPS 2025, AAAI 2025, MM 2025, ICLR 2025, ACL ARR 2025, IJCAI 2025, ICME 2025, COLING 2025;<br>
+      ACL ARR 2024, COLING 2024, NLPCC 2024, WiNLP 2024;<br>
+      ACL ARR 2023, NLPCC 2023;<br>
+      EMNLP 2022, COLING 2022, NLPCC 2022;<br>
+      ACL ARR 2021, NLPCC 2021.
+    </div>
+  </div>
 
-* Conference Program Committee:  
-  ICML 2026, ICASSP 2026,  
-  NeurIPS 2025, AAAI 2025, MM 2025, ICLR 2025, ACL ARR 2025, IJCAI 2025, ICME 2025, COLING 2025,  
-  ACL ARR 2024, COLING 2024, NLPCC 2024, WiNLP 2024,  
-  ACL ARR 2023, NLPCC 2023,  
-  EMNLP 2022, COLING 2022, NLPCC 2022,  
-  ACL ARR 2021, NLPCC 2021.
+  <div class="service-item">
+    <div class="service-label">Journal Reviewer</div>
+    <div class="service-content">ACM Transactions on Knowledge Discovery from Data, ACM Transactions on Asian and Low-Resource Language Information Processing, IEEE Transactions on Neural Networks and Learning Systems.</div>
+  </div>
+</section>
 
+---
 
-* Journal Reviewer:  
-  ACM Transactions on Knowledge Discovery from Data, ACM Transactions on Asian and Low-Resource Language Information Processing, IEEE Transactions on Neural Networks and Learning Systems. 
+## Reviewer Awards
+
+<div class="award-line">
+  <span><strong>Silver Reviewer Award</strong>, ICML 2026.</span>
+</div>

@@ -27,9 +27,9 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2em;
+    margin-top: 1.25em;
     max-width: 100%;
-    padding: 0 1em 2em;
+    padding: 0 1em 1.25em;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -53,40 +53,19 @@
   }
 }
 
-.page__footer-copyright {
+.page__footer-visitor {
   font-family: $global-font-family;
-  font-size: $type-size-7;
+  font-size: $type-size-6;
+  line-height: 1.5;
+  text-align: center;
+
+  strong {
+    color: $text-color;
+    font-weight: 700;
+  }
 }
 
-.page__footer-follow {
-  ul {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-  }
-
-  li {
-    display: inline-block;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    font-family: $sans-serif-narrow;
-    font-size: $type-size-6;
-    text-transform: uppercase;
-  }
-
-  li + li:before {
-    content: "";
-    padding-right: 5px;
-  }
-
-  a {
-    padding-right: 10px;
-    font-weight: bold;
-  }
-
-  .social-icons {
-    a {
-      white-space: nowrap;
-    }
-  }
+.page__footer-separator {
+  display: inline-block;
+  padding: 0 0.45em;
 }
