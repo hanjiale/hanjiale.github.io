@@ -1,34 +1,36 @@
 ---
 layout: archive
-title: "Service"
-permalink: /service/
+title: "学术服务"
+permalink: /zh/service/
+lang: zh-CN
+author: jiale_zh
 author_profile: true
-zh_url: /zh/service/
+en_url: /service/
 ---
 
 {% include base_path %}
 
 
-## ✒️ Academic Services
+## ✒️ 学术服务
 
 <section class="service-panel">
-  <h3>Business and Information Systems</h3>
+  <h3>商业与信息系统</h3>
   <div class="service-item">
-    <div class="service-label">Journal Reviewer</div>
+    <div class="service-label">期刊审稿人</div>
     <div class="service-content">MIS Quarterly, Information Systems Research, INFORMS Journal on Computing.</div>
   </div>
 </section>
 
 <section class="service-panel">
-  <h3>AI</h3>
+  <h3>人工智能</h3>
 
   <div class="service-item">
-    <div class="service-label">Area Chair</div>
+    <div class="service-label">领域主席</div>
     <div class="service-content">ACL ARR 2026, 2025.</div>
   </div>
 
   <div class="service-item">
-    <div class="service-label">Conference Program Committee</div>
+    <div class="service-label">会议审稿人</div>
     <div class="service-content">
       ICML 2026, ICASSP 2026;<br>
       NeurIPS 2025, AAAI 2025, MM 2025, ICLR 2025, ACL ARR 2025, IJCAI 2025, ICME 2025, COLING 2025;<br>
@@ -40,15 +42,15 @@ zh_url: /zh/service/
   </div>
 
   <div class="service-item">
-    <div class="service-label">Journal Reviewer</div>
+    <div class="service-label">期刊审稿人</div>
     <div class="service-content">ACM Transactions on Knowledge Discovery from Data, ACM Transactions on Asian and Low-Resource Language Information Processing, IEEE Transactions on Neural Networks and Learning Systems.</div>
   </div>
 </section>
 
 ---
 
-## Reviewer Awards
+## 审稿人奖项
 
 <div class="award-line">
-  <span><strong>Silver Reviewer Award</strong>, ICML 2026.</span>
+  <span><strong>银牌审稿人奖</strong>，ICML 2026。</span>
 </div>

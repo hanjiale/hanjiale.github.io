@@ -324,25 +324,23 @@
 @include breakpoint(max-width $small) {
   .greedy-nav {
     min-width: 0;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
+    overflow: visible;
 
     a {
       margin: 0 0.7rem;
     }
 
     button {
-      display: none;
+      display: block;
     }
 
     .visible-links {
-      display: flex;
-      width: max-content;
-      min-width: 100%;
+      display: table;
+      width: auto;
+      min-width: 0;
 
       li {
-        display: block;
-        flex: 0 0 auto;
+        display: table-cell;
       }
     }
   }

@@ -6,24 +6,47 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
-          {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}{% if page.lang == "zh-CN" %}/zh/{% else %}/{% endif %}">{{ site.title }}</a></li>
+          {% assign navigation_links = site.data.navigation.main %}
+          {% if page.lang == "zh-CN" %}
+            {% assign navigation_links = site.data.navigation.main_zh %}
+          {% endif %}
+          {% for link in navigation_links %}
+            {% assign nav_title = link.title %}
+            {% assign nav_url = link.url %}
+            {% if nav_url contains 'http' %}
               {% assign domain = '' %}
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
             {% assign active_class = '' %}
-            {% if page.url == link.url or page.permalink == link.url %}
+            {% if page.url == nav_url or page.permalink == nav_url %}
               {% assign active_class = ' masthead__menu-item--active' %}
-            {% elsif page.url == '/' and link.url == '/about/' %}
+            {% elsif page.url == '/' and nav_url == '/about/' %}
               {% assign active_class = ' masthead__menu-item--active' %}
             {% endif %}
-            <li class="masthead__menu-item{{ active_class }}"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item{{ active_class }}"><a href="{{ domain }}{{ nav_url }}">{{ nav_title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
+      <div class="masthead__controls">
+        {% if page.lang == "zh-CN" %}
+          <a class="language-switch" href="{{ base_path }}{{ page.en_url | default: "/" }}" lang="en" hreflang="en" aria-label="Switch to English">EN</a>
+        {% else %}
+          <a class="language-switch" href="{{ base_path }}{{ page.zh_url | default: "/zh/" }}" lang="zh-CN" hreflang="zh-CN" aria-label="切换到中文">中文</a>
+        {% endif %}
+        <button
+          id="theme-toggle"
+          class="theme-toggle"
+          type="button"
+          data-dark-label="{% if page.lang == "zh-CN" %}切换到深色模式{% else %}Switch to dark mode{% endif %}"
+          data-light-label="{% if page.lang == "zh-CN" %}切换到浅色模式{% else %}Switch to light mode{% endif %}"
+          aria-label="{% if page.lang == "zh-CN" %}切换到深色模式{% else %}Switch to dark mode{% endif %}"
+          title="{% if page.lang == "zh-CN" %}切换到深色模式{% else %}Switch to dark mode{% endif %}">
+          <span class="theme-toggle__icon" aria-hidden="true">☾</span>
+        </button>
+      </div>
     </div>
   </div>
 </div>

@@ -32,6 +32,13 @@
 }
 
 .masthead__menu {
+  display: flex;
+  align-items: center;
+
+  .greedy-nav {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
 
   ul {
     margin: 0;
@@ -39,6 +46,53 @@
     clear: both;
     list-style-type: none;
   }
+}
+
+.masthead__controls {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: 0.5rem;
+  margin-left: 1rem;
+}
+
+.language-switch,
+.theme-toggle {
+  min-width: 3.25rem;
+  padding: 0.38rem 0.72rem;
+  border: 1px solid mix(#fff, $primary-color, 45%);
+  border-radius: 999px;
+  background: $background-color;
+  color: $masthead-link-color;
+  font-size: $type-size-6;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out,
+              background-color 0.2s ease-in-out;
+
+  &:hover,
+  &:focus {
+    border-color: $masthead-link-color-hover;
+    background: mix(#fff, $primary-color, 90%);
+    color: $masthead-link-color-hover;
+  }
+}
+
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2rem;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  cursor: pointer;
+}
+
+.theme-toggle__icon {
+  font-size: 1rem;
+  line-height: 1;
 }
 
 .masthead__menu-item {
@@ -49,5 +103,30 @@
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+  }
+}
+
+@include breakpoint(max-width $small) {
+  .masthead__menu {
+    position: relative;
+    box-sizing: border-box;
+    width: 100%;
+    padding-right: 6.2rem;
+  }
+
+  .masthead__controls {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    z-index: 20;
+    gap: 0.35rem;
+    margin-left: 0;
+    transform: translateY(-50%);
+  }
+
+  .language-switch {
+    min-width: 2.85rem;
+    padding-right: 0.58rem;
+    padding-left: 0.58rem;
   }
 }

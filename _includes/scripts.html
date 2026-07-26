@@ -1,4 +1,37 @@
-<script src="{{ base_path }}/assets/js/main.min.js"></script>
+<script src="{{ base_path }}/assets/js/main.min.js?v={{ site.time | date: "%s" }}"></script>
+
+<script>
+  (function () {
+    var root = document.documentElement;
+    var toggle = document.getElementById("theme-toggle");
+    if (!toggle) return;
+
+    var icon = toggle.querySelector(".theme-toggle__icon");
+
+    function updateToggle() {
+      var darkMode = root.classList.contains("theme-dark");
+      var label = darkMode ? toggle.getAttribute("data-light-label") : toggle.getAttribute("data-dark-label");
+      icon.textContent = darkMode ? "☀" : "☾";
+      toggle.setAttribute("aria-label", label);
+      toggle.setAttribute("title", label);
+      toggle.setAttribute("aria-pressed", darkMode ? "true" : "false");
+    }
+
+    toggle.addEventListener("click", function () {
+      var darkMode = !root.classList.contains("theme-dark");
+      root.classList.toggle("theme-dark", darkMode);
+      root.style.colorScheme = darkMode ? "dark" : "light";
+      try {
+        localStorage.setItem("site-theme", darkMode ? "dark" : "light");
+      } catch (error) {
+        // The selected theme still applies for the current page.
+      }
+      updateToggle();
+    });
+
+    updateToggle();
+  }());
+</script>
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}

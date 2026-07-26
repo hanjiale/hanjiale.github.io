@@ -16,3 +16,15 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+
+jiale_zh:
+  name            : "韩佳乐"
+  avatar          : "profile.png"
+  bio             : "AI × Business"
+  location        : "中国深圳"
+  employer        : "深圳河套学院（SLAI）"
+  email           : "jialehan@slai.edu.cn"
+  github          : "hanjiale"
+  googlescholar   : "https://scholar.google.com/citations?hl=en&user=itFycmoAAAAJ"
+  semanticscholar : "https://www.semanticscholar.org/author/Jiale-Han/12212068"
+  orcid           : "https://orcid.org/0000-0001-6477-0424"
