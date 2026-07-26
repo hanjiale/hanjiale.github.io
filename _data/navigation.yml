@@ -9,6 +9,16 @@ main:
   - title: "Service"
     url: /service/
 
+main_zh:
+  - title: "关于我"
+    url: /zh/
+
+  - title: "研究"
+    url: /zh/research/
+
+  - title: "学术服务"
+    url: /zh/service/
+
 #   - title: "Publications"
 #     url: /publications/
 

@@ -1,5 +1,9 @@
 {% include base_path %}
 
 <div class="page__footer-note">
-  Last updated: {{ site.time | date: "%B %-d, %Y" }}
+  {% if page.lang == "zh-CN" %}
+    最后更新：{{ site.time | date: "%Y 年 %-m 月 %-d 日" }}
+  {% else %}
+    Last updated: {{ site.time | date: "%B %-d, %Y" }}
+  {% endif %}
 </div>
