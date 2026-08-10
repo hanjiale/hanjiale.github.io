@@ -146,6 +146,17 @@ html.theme-dark {
       color: #d1d5db;
     }
 
+    .news-links a {
+      border-color: #3b5267;
+      background: #172a38;
+      color: #c7d0dc;
+
+      &:hover {
+        border-color: #67c7e8;
+        color: #9edcf0;
+      }
+    }
+
     .research-area {
       border-color: #334155;
       background: #172130;
