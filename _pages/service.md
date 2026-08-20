@@ -23,6 +23,11 @@ zh_url: /zh/service/
   <h3>AI</h3>
 
   <div class="service-item">
+    <div class="service-label">Workshop Organizer</div>
+    <div class="service-content"><a href="https://galm-workshop.github.io/">2nd International Workshop on Graph-Augmented LLMs (GaLM@CIKM 2026)</a>.</div>
+  </div>
+
+  <div class="service-item">
     <div class="service-label">Area Chair</div>
     <div class="service-content">ACL ARR 2026, 2025.</div>
   </div>
@@ -44,11 +49,3 @@ zh_url: /zh/service/
     <div class="service-content">ACM Transactions on Knowledge Discovery from Data, ACM Transactions on Asian and Low-Resource Language Information Processing, IEEE Transactions on Neural Networks and Learning Systems.</div>
   </div>
 </section>
-
----
-
-## Reviewer Awards
-
-<div class="award-line">
-  <span><strong>Silver Reviewer Award</strong>, ICML 2026.</span>
-</div>
