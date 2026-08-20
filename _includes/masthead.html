@@ -5,6 +5,19 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
+        {% if page.body_class == "reference-home" %}
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}{% if page.lang == 'zh-CN' %}/zh/{% else %}/{% endif %}">Jiale Han</a></li>
+          <li class="masthead__menu-item masthead__menu-item--active"><a href="#home">{% if page.lang == "zh-CN" %}主页{% else %}Home{% endif %}</a></li>
+          <li class="masthead__menu-item"><a href="#news">{% if page.lang == "zh-CN" %}新闻{% else %}News{% endif %}</a></li>
+          <li class="masthead__menu-item"><a href="#background">{% if page.lang == "zh-CN" %}个人经历{% else %}Background{% endif %}</a></li>
+          <li class="masthead__menu-item"><a href="#publications">{% if page.lang == "zh-CN" %}论文{% else %}Publications{% endif %}</a></li>
+          <li class="masthead__menu-item"><a href="#awards">{% if page.lang == "zh-CN" %}荣誉{% else %}Awards{% endif %}</a></li>
+          <li class="masthead__menu-item"><a href="#services">{% if page.lang == "zh-CN" %}服务{% else %}Services{% endif %}</a></li>
+          <li class="masthead__menu-item home-language-link"><a href="{{ base_path }}{% if page.lang == 'zh-CN' %}/{% else %}/zh/{% endif %}">{% if page.lang == "zh-CN" %}EN{% else %}中文{% endif %}</a></li>
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+        {% else %}
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}{% if page.lang == "zh-CN" %}/zh/{% else %}/{% endif %}">{{ site.title }}</a></li>
           {% assign navigation_links = site.data.navigation.main %}
@@ -29,7 +42,9 @@
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
+        {% endif %}
       </nav>
+      {% unless page.body_class == "reference-home" %}
       <div class="masthead__controls">
         {% if page.lang == "zh-CN" %}
           <a class="language-switch" href="{{ base_path }}{{ page.en_url | default: "/" }}" lang="en" hreflang="en" aria-label="Switch to English">EN</a>
@@ -47,6 +62,7 @@
           <span class="theme-toggle__icon" aria-hidden="true">☾</span>
         </button>
       </div>
+      {% endunless %}
     </div>
   </div>
 </div>

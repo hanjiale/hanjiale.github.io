@@ -1,28 +1,136 @@
 ---
+layout: profile-home
 permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
+title: "Jiale Han"
+excerpt: "Jiale Han — AI × Business"
+body_class: reference-home
 zh_url: /zh/
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-👋 Hi!
+<section class="homepage-intro-card">
+  <p>Hi, there! 👋 I’m <strong>Jiale</strong>. I am a Research Assistant Professor at the Center for AI for Social Science at Shenzhen Loop Area Institute (SLAI). Before joining SLAI, I was a post-doctoral fellow at the School of Business and Management, HKUST. I received my Ph.D. degree in Computer Science from BUPT in 2023, during which I was also a visiting Ph.D. student at SUTD. I received my Bachelor degree in Communication Engineering from XDU in 2018.</p>
+  <p class="research-focus">My research focuses on <strong>AI for economic and social systems</strong>, particularly <strong><span class="research-topic research-topic--world"><span class="research-topic__icon" aria-hidden="true">🌍</span> Economic World Models</span>, <span class="research-topic research-topic--social"><span class="research-topic__icon" aria-hidden="true">👥</span> LLM-based social simulation</span>, and <span class="research-topic research-topic--agents"><span class="research-topic__icon" aria-hidden="true">🤖</span> economic and financial agents</span></strong>. I study how AI agents perceive, reason, interact, and adapt in dynamic economic environments, and how such agentic systems can be used to model, simulate, and understand real-world economic and financial processes.</p>
+  <p class="reference-recruiting"><span class="recruiting-icon" aria-hidden="true">📢</span> I am actively looking for potential collaborators, especially students passionate about AI research. If you are interested in working with me as a research assistant or research intern on AI for business and financial applications, please feel free to contact me at <a href="mailto:jialehan@slai.edu.cn"><strong>jialehan@slai.edu.cn</strong></a>.</p>
+</section>
 
-I am Jiale Han, a Research Assistant Professor at the center for AI for social science, Shenzhen Loop Area Institute (SLAI). Before joining SLAI, I was a post-doctoral fellow at the School of Business and Management, HKUST. I received my Ph.D. degree in Computer Science from BUPT in 2023, during which I was also a visiting Ph.D. student at SUTD. I received my Bachelor degree in Communication Engineering from XDU in 2018.
+<section class="homepage-card" id="news">
+  <header class="homepage-card__header">
+    <h2>News</h2>
+    <span class="homepage-card__eyebrow">Latest updates</span>
+  </header>
+  <div class="homepage-news-scroll" tabindex="0" aria-label="Latest news; scroll vertically">
+    <div class="news-timeline">
+      <div class="news-timeline__year">2026</div>
+      <div>
+        <article class="news-timeline__event"><div>We released <em>From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models</em>. <a href="https://arxiv.org/abs/2608.06020">[arXiv]</a> <a href="https://huggingface.co/papers/2608.06020">[Hugging Face]</a> <a href="https://github.com/FreedomIntelligence/Awesome-Economic-World-Models">[GitHub]</a> We would be delighted to hear your thoughts and sincerely appreciate any feedback or discussion.</div><time datetime="2026-08">Aug</time></article>
+        <article class="news-timeline__event"><div>I joined the Center for AI for Social Science at Shenzhen Loop Area Institute (SLAI) as a Research Assistant Professor.</div><time datetime="2026-05">May</time></article>
+        <article class="news-timeline__event"><div>I concluded my postdoctoral fellowship at the HKUST Business School.</div><time datetime="2026-05">May</time></article>
+      </div>
+    </div>
+  </div>
+</section>
 
-My research lies at the intersection of artificial intelligence and business. I am broadly interested in natural language processing (NLP), large language models (LLMs), AI agents, and their applications in economic and financial scenarios. With an interdisciplinary background in business school research and computer science, I am interested in developing AI methods that can understand, reason about, and support decision-making in complex business and financial systems.
+<section class="homepage-card" id="background">
+  <header class="homepage-card__header"><h2>Background</h2><span class="homepage-card__eyebrow">Experience &amp; Education</span></header>
+  <div class="background-grid">
+    <section class="background-column">
+      <h3>Research Experience</h3>
+      <div class="background-timeline">
+        <article class="background-item">
+          <div class="background-item__heading"><strong><img class="institution-logo" src="/images/institutions/slai-mark.png" alt="SLAI logo">Shenzhen Loop Area Institute</strong><time>May 2026 — Present</time></div>
+          <p>Research Assistant Professor, Center for AI for Social Science.</p>
+        </article>
+        <article class="background-item">
+          <div class="background-item__heading"><strong><img class="institution-logo" src="/images/institutions/hkust.ico" alt="HKUST logo">Hong Kong University of Science and Technology</strong><time>May 2024 — May 2026</time></div>
+          <p>Post-doctoral Fellow, School of Business and Management. Supervisor: Prof. <a href="https://yya518.github.io/">Yi Yang</a>.</p>
+        </article>
+      </div>
+    </section>
+    <section class="background-column">
+      <h3>Education</h3>
+      <div class="background-timeline">
+        <article class="background-item">
+          <div class="background-item__heading"><strong><img class="institution-logo" src="/images/institutions/bupt.png" alt="BUPT logo">Beijing University of Posts and Telecommunications</strong><time>Sep. 2018 — Jun. 2023</time></div>
+          <p>Ph.D. in Computer Science and Technology. Supervisor: Prof. <a href="https://teacher.bupt.edu.cn/chengbo/en/">Bo Cheng</a>.</p>
+        </article>
+        <article class="background-item">
+          <div class="background-item__heading"><strong><img class="institution-logo" src="/images/institutions/sutd.png" alt="SUTD logo">Singapore University of Technology and Design</strong><time>Sep. 2021 — Mar. 2023</time></div>
+          <p>Visiting Ph.D. Student. Supervisor: Prof. <a href="https://dr.ntu.edu.sg/entities/person/Wei-Lu">Wei Lu</a>.</p>
+        </article>
+        <article class="background-item">
+          <div class="background-item__heading"><strong><img class="institution-logo" src="/images/institutions/xdu.ico" alt="XDU logo">Xidian University</strong><time>Aug. 2014 — Jun. 2018</time></div>
+          <p>B.Eng. in Telecommunications Engineering. Supervisor: Prof. <a href="https://scholar.google.com/citations?user=R1vy_skAAAAJ&amp;hl=zh-CN">Quanxue Gao</a>.</p>
+        </article>
+      </div>
+    </section>
+  </div>
+</section>
 
-## 📰 News
+<section class="homepage-card" id="publications">
+<header class="homepage-card__header">
+  <h2>Publications</h2>
+  <span class="homepage-card__eyebrow">Research</span>
+</header>
 
-- **Aug 2026** — We released a new paper, *From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models*. <span class="news-links"><a href="https://arxiv.org/abs/2608.06020"><svg class="news-link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 2h8l4 4v16H6V2zm7 1.5V7h3.5L13 3.5zM8 11h8v1.5H8V11zm0 4h8v1.5H8V15z"/></svg> arXiv</a><a href="https://huggingface.co/papers/2608.06020"><span class="news-links__hf" aria-hidden="true">🤗</span> Hugging Face</a><a href="https://github.com/FreedomIntelligence/Awesome-Economic-World-Models"><svg class="news-link-icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 .5C5.65.5.5 5.65.5 12c0 5.1 3.29 9.43 7.86 10.96.58.1.79-.25.79-.56v-2.14c-3.2.7-3.88-1.37-3.88-1.37-.52-1.32-1.27-1.67-1.27-1.67-1.04-.71.08-.7.08-.7 1.15.08 1.75 1.18 1.75 1.18 1.02 1.75 2.67 1.24 3.32.95.1-.74.4-1.24.72-1.53-2.56-.29-5.26-1.28-5.26-5.7 0-1.26.45-2.29 1.18-3.1-.12-.29-.51-1.46.11-3.05 0 0 .96-.31 3.15 1.18.91-.25 1.89-.38 2.86-.38.97 0 1.95.13 2.86.38 2.19-1.49 3.15-1.18 3.15-1.18.62 1.59.23 2.76.11 3.05.73.81 1.18 1.84 1.18 3.1 0 4.43-2.7 5.4-5.27 5.69.41.35.77 1.04.77 2.1v3.12c0 .31.21.67.8.56A11.52 11.52 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5z"/></svg> GitHub</a></span> We would be delighted to hear your thoughts and sincerely appreciate any feedback or discussion.
+<p class="reference-section-note"><sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author. The full publication list is available on <a href="https://scholar.google.com/citations?hl=en&amp;user=itFycmoAAAAJ">Google Scholar</a>.</p>
 
-<div class="opening-card">
-  <p>📢 I am actively looking for potential collaborators, especially students passionate about AI research. If you are interested in working with me as a research assistant or research intern on AI for business and financial applications, please feel free to contact me at <a href="mailto:jialehan@slai.edu.cn">jialehan@slai.edu.cn</a>.</p>
+<h3 class="reference-subheading">Working Papers</h3>
+
+<ul class="reference-publications">
+  <li><strong>Hypergraph Modeling of Supply Chains: Unveiling the Impact of High-Order and Temporal Dynamics on Credit Risk Prediction.</strong> Jiale Han, Yi Yang, Yangyang Fan, Zhongju Zhang. <em>Production and Operations Management (UTD 24), Second-Round Major Revision</em>.</li>
+  <li><strong>HoneyImage: Verifiable, Harmless, and Stealthy Dataset Ownership Verification for Image Models.</strong> Zhihao Zhu, Jiale Han, Yi Yang. <em>Management Information Systems Quarterly (UTD 24), Major Revision</em>. <a href="https://arxiv.org/abs/2508.00892">[Paper]</a></li>
+  <li><strong>RAG Meets Temporal Graphs: Time-Sensitive Modeling and Retrieval for Evolving Knowledge.</strong> Jiale Han, Austin Cheung, Yubai Wei, Zheng Yu, Xusheng Wang, Bing Zhu, Yi Yang. <em>Under Review</em>. <a href="https://arxiv.org/abs/2510.13590">[Paper]</a> <a href="https://github.com/hanjiale/Temporal-GraphRAG">[Code]</a></li>
+</ul>
+
+<h3 class="reference-subheading">Selected Publications</h3>
+
+<ul class="reference-publications">
+  <li><strong>CGSVD: Cascaded Granular Singular Value Decomposition for Large Language Model Compression.</strong> Yuli Chen, Shuhao Zhang, Jiale Han, Fanshen Meng, Haishen Jiang, Bo Cheng, Qiang Tong, Xiulei Liu. <em>ICML 2026</em>.</li>
+  <li><strong>Analyze–Compose–Execute: A Dynamic Dialogue Framework for Multi-Agent Debate.</strong> Wenyuan Gu, Haowen Wang, Jiale Han<sup>†</sup>, Xiang Li, Zhixuan Wu, Hongru Xiao, Bo Cheng<sup>†</sup>. <em>AAAI 2026</em>.</li>
+  <li><strong>Beyond A Fixed Seal: Adaptive Stealing Watermark in Large Language Models.</strong> Shuhao Zhang, Yuli Chen, Jiale Han<sup>†</sup>, Bo Cheng<sup>†</sup>, Jiabao Ma. <em>ACL Findings 2026</em>.</li>
+  <li><strong>MARE: Multi-Agent Role Embedding for Role-Consistent Generation in Multi-Agent Systems.</strong> Wenyuan Gu, Jiale Han<sup>†</sup>, Jingyi Zhao, Yuli Chen, Haowen Wang, Bo Cheng. <em>ICASSP 2026</em>.</li>
+  <li><strong>Human or Machine? A Preliminary Turing Test for Speech-to-Speech Interaction.</strong> Xiang Li, Jiabao Gao, Sipei Lin, Xuan Zhou, Chi Zhang, Bo Cheng, Jiale Han<sup>†</sup>, Benyou Wang. <em>ICLR 2026</em>. <a href="https://arxiv.org/abs/2602.24080">[Paper]</a> <a href="https://github.com/Carbohydrate1001/S2S-Turing-Test">[Code]</a></li>
+  <li><strong>DLP: Dynamic Layerwise Pruning in Large Language Models.</strong> Yuli Chen, Bo Cheng<sup>†</sup>, Jiale Han<sup>†</sup>, Yingying Zhang, Yingting Li, Shuhao Zhang. <em>ICML 2025</em>. <a href="https://arxiv.org/abs/2505.23807">[Paper]</a> <a href="https://github.com/ironartisan/DLP">[Code]</a></li>
+  <li><strong>Adapting General-Purpose Embedding Models to Private Datasets Using Keyword-based Retrieval.</strong> Yubai Wei, Jiale Han, Yi Yang. <em>ACL Findings 2025</em>. <a href="https://doi.org/10.18653/v1/2025.findings-acl.357">[Paper]</a> <a href="https://github.com/BaileyWei/BMEmbed">[Code]</a></li>
+  <li><strong>Explain-Analyze-Generate: A Sequential Multi-Agent Collaboration Method for Complex Reasoning.</strong> Wenyuan Gu<sup>*</sup>, Jiale Han<sup>*</sup>, Haowen Wang, Xiang Li, Bo Cheng. <em>COLING 2025</em>. <a href="https://aclanthology.org/2025.coling-main.475/">[Paper]</a></li>
+  <li><strong>VideoQA-TA: Temporal-Aware Multi-Modal Video Question Answering.</strong> Zhixuan Wu, Bo Cheng, Jiale Han, Jiabao Ma, Shuhao Zhang, Yuli Chen, Changbo Li. <em>COLING 2025, Outstanding Paper</em>. <a href="https://aclanthology.org/2025.coling-main.483/">[Paper]</a> <a href="https://github.com/YALYAshley/VideoQA-TA">[Code]</a></li>
+  <li><strong>Towards Hard Few-Shot Relation Classification.</strong> Jiale Han, Bo Cheng, Zhiguo Wan, Wei Lu. <em>IEEE TKDE 2023</em>. <a href="https://ieeexplore.ieee.org/document/10032649">[Paper]</a></li>
+  <li><strong>Generative Prompt Tuning for Relation Classification.</strong> Jiale Han, Shuai Zhao, Bo Cheng, Shengkun Ma, Wei Lu. <em>EMNLP Findings 2022</em>. <a href="https://doi.org/10.18653/v1/2022.findings-emnlp.231">[Paper]</a> <a href="https://github.com/hanjiale/GenPT">[Code]</a></li>
+  <li><strong>Exploring Task Difficulty for Few-Shot Relation Extraction.</strong> Jiale Han, Bo Cheng, Wei Lu. <em>EMNLP 2021</em>. <a href="https://doi.org/10.18653/v1/2021.emnlp-main.204">[Paper]</a> <a href="https://github.com/hanjiale/HCRP">[Code]</a></li>
+  <li><strong>Learning Discriminative and Unbiased Representations for Few-Shot Relation Extraction.</strong> Jiale Han, Bo Cheng, Guoshun Nan. <em>CIKM 2021</em>. <a href="https://doi.org/10.1145/3459637.3482268">[Paper]</a></li>
+  <li><strong>Open Domain Question Answering based on Text Enhanced Knowledge Graph with Hyperedge Infusion.</strong> Jiale Han, Bo Cheng, Xu Wang. <em>EMNLP Findings 2020</em>. <a href="https://doi.org/10.18653/v1/2020.findings-emnlp.133">[Paper]</a></li>
+  <li><strong>Two-Phase Hypergraph based Reasoning with Dynamic Relations for Multi-Hop KBQA.</strong> Jiale Han, Bo Cheng, Xu Wang. <em>IJCAI 2020</em>. <a href="https://doi.org/10.24963/ijcai.2020/500">[Paper]</a></li>
+  <li><strong>Hypergraph Convolutional Network for Multi-Hop Knowledge Base Question Answering.</strong> Jiale Han, Bo Cheng, Xu Wang. <em>AAAI 2020</em>. <a href="https://doi.org/10.1609/aaai.v34i10.7172">[Paper]</a></li>
+</ul>
+</section>
+
+<div class="homepage-card-grid">
+  <section class="homepage-card" id="awards">
+    <header class="homepage-card__header"><h2>Awards</h2><span class="homepage-card__eyebrow">Honors</span></header>
+    <ul class="reference-awards">
+      <li><strong>Outstanding Paper</strong>, the 31st International Conference on Computational Linguistics, 2025.</li>
+      <li>Outstanding Graduate Award of BUPT, 2023.</li>
+      <li><strong>Silver Reviewer Award</strong>, ICML 2026.</li>
+    </ul>
+  </section>
+
+  <section class="homepage-card" id="services">
+    <header class="homepage-card__header"><h2>Academic Services</h2><span class="homepage-card__eyebrow">Community</span></header>
+    <h3 class="reference-subheading">Business and Information Systems</h3>
+    <ul class="reference-service-list"><li><strong>Journal Reviewer:</strong> MIS Quarterly, Information Systems Research, INFORMS Journal on Computing.</li></ul>
+    <h3 class="reference-subheading">Artificial Intelligence</h3>
+    <ul class="reference-service-list">
+      <li><strong>Workshop Organizer:</strong> <a href="https://galm-workshop.github.io/">2nd International Workshop on Graph-Augmented LLMs (GaLM@CIKM 2026)</a>.</li>
+      <li><strong>Area Chair:</strong> ACL ARR 2026, 2025.</li>
+      <li><strong>Conference Program Committee:</strong> ICML 2026, ICASSP 2026; NeurIPS 2025, AAAI 2025, MM 2025, ICLR 2025, ACL ARR 2025, IJCAI 2025, ICME 2025, COLING 2025; ACL ARR 2024, COLING 2024, NLPCC 2024, WiNLP 2024; ACL ARR 2023, NLPCC 2023; EMNLP 2022, COLING 2022, NLPCC 2022; ACL ARR 2021, NLPCC 2021.</li>
+      <li><strong>Journal Reviewer:</strong> ACM Transactions on Knowledge Discovery from Data, ACM Transactions on Asian and Low-Resource Language Information Processing, IEEE Transactions on Neural Networks and Learning Systems.</li>
+    </ul>
+  </section>
 </div>
 
-<div class="visitor-map">
-  <a href="https://mapmyvisitors.com/web/1bvon" title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=n&d=1-VHjMWjv_T_7OD7YwrBMGnwhoYkedc_-0wCnExqZIw" alt=""></a>
+<div class="reference-visitor-map">
+  <a href="https://mapmyvisitors.com/web/1bvon" title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?cl=ffffff&amp;w=a&amp;t=n&amp;d=1-VHjMWjv_T_7OD7YwrBMGnwhoYkedc_-0wCnExqZIw" alt="Visitor map"></a>
 </div>

@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<div class="reference-layout">
+  <aside class="reference-profile" aria-label="{% if page.lang == 'zh-CN' %}个人资料{% else %}Profile{% endif %}">
+    <img class="reference-profile__avatar" src="{{ '/images/profile.png' | prepend: base_path }}" alt="{% if page.lang == 'zh-CN' %}韩佳乐{% else %}Jiale Han{% endif %}">
+
+    <h1>{% if page.lang == "zh-CN" %}韩佳乐{% else %}Jiale Han{% endif %}</h1>
+    <p class="reference-profile__role">
+      {% if page.lang == "zh-CN" %}
+        研究助理教授
+      {% else %}
+        Research Assistant Professor
+      {% endif %}
+    </p>
+
+    <div class="reference-profile__summary">
+      <p>{% if page.lang == "zh-CN" %}社会科学人工智能中心{% else %}Center for AI for Social Science{% endif %}</p>
+      <p><a href="https://www.slai.edu.cn/" target="_blank" rel="noopener">{% if page.lang == "zh-CN" %}深圳河套学院（SLAI）{% else %}Shenzhen Loop Area Institute (SLAI){% endif %}</a></p>
+    </div>
+
+    <div class="reference-profile__tagline">
+      <p class="reference-profile__role">AI × {% if page.lang == "zh-CN" %}商业{% else %}Business{% endif %}</p>
+      <span>NLP · LLMs · Agents</span>
+    </div>
+
+    <p class="reference-profile__contact"><strong>jialehan</strong> AT slai.edu.cn</p>
+
+    <nav class="reference-profile__social" aria-label="{% if page.lang == 'zh-CN' %}学术与社交链接{% else %}Academic and social links{% endif %}">
+      <a href="mailto:jialehan@slai.edu.cn" aria-label="Email" title="Email"><i class="fas fa-envelope" aria-hidden="true"></i></a>
+      <a href="https://scholar.google.com/citations?hl=en&user=itFycmoAAAAJ" target="_blank" rel="noopener" aria-label="Google Scholar" title="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>
+      <a href="https://github.com/hanjiale" target="_blank" rel="noopener" aria-label="GitHub" title="GitHub"><i class="fab fa-github" aria-hidden="true"></i></a>
+    </nav>
+  </aside>
+
+  <main class="reference-content" id="home">
+    {{ content }}
+  </main>
+</div>
+
+<script src="{{ '/assets/js/profile-home.js' | prepend: base_path }}" defer></script>

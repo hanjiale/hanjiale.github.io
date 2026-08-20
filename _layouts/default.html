@@ -12,7 +12,7 @@ layout: compress
     <meta name="google-site-verification" content="p7mq2bJdsCMfdR9QPIKZofCua3fkJCk4BMZlYNmBFjI" />
   </head>
 
-  <body>
+  <body{% if page.body_class %} class="{{ page.body_class }}"{% endif %}>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}

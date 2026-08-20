@@ -101,7 +101,7 @@ My current research lies at the intersection of Artificial Intelligence and Busi
       <span class="pub-venue">Production and Operations Management.</span>
       <span class="pub-tags pub-tags--inline">
         <span class="pub-tag pub-tag--utd">UTD 24</span>
-        <span class="pub-tag pub-tag--status">Major Revision</span>
+        <span class="pub-tag pub-tag--status">Second-Round Major Revision</span>
       </span>
     </div>
   </article>
@@ -134,6 +134,30 @@ My current research lies at the intersection of Artificial Intelligence and Busi
 Full list of publications available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=itFycmoAAAAJ).
 
 <div class="pub-list">
+  <article class="pub-item">
+    <div class="pub-title">CGSVD: Cascaded Granular Singular Value Decomposition for Large Language Model Compression.</div>
+    <div class="pub-authors">Yuli Chen, Shuhao Zhang, Jiale Han, Fanshen Meng, Haishen Jiang, Bo Cheng, Qiang Tong, Xiulei Liu.</div>
+    <div class="pub-meta"><span class="pub-venue">International Conference on Machine Learning.</span> <span class="pub-tags pub-tags--inline"><span class="pub-tag">ICML 2026</span></span></div>
+  </article>
+
+  <article class="pub-item">
+    <div class="pub-title">Analyze–Compose–Execute: A Dynamic Dialogue Framework for Multi-Agent Debate.</div>
+    <div class="pub-authors">Wenyuan Gu, Haowen Wang, Jiale Han<sup>†</sup>, Xiang Li, Zhixuan Wu, Hongru Xiao, Bo Cheng<sup>†</sup>.</div>
+    <div class="pub-meta"><span class="pub-venue">AAAI Conference on Artificial Intelligence.</span> <span class="pub-tags pub-tags--inline"><span class="pub-tag">AAAI 2026</span></span></div>
+  </article>
+
+  <article class="pub-item">
+    <div class="pub-title">Beyond A Fixed Seal: Adaptive Stealing Watermark in Large Language Models.</div>
+    <div class="pub-authors">Shuhao Zhang, Yuli Chen, Jiale Han<sup>†</sup>, Bo Cheng<sup>†</sup>, Jiabao Ma.</div>
+    <div class="pub-meta"><span class="pub-venue">Findings of the Association for Computational Linguistics.</span> <span class="pub-tags pub-tags--inline"><span class="pub-tag">ACL Findings 2026</span></span></div>
+  </article>
+
+  <article class="pub-item">
+    <div class="pub-title">MARE: Multi-Agent Role Embedding for Role-Consistent Generation in Multi-Agent Systems.</div>
+    <div class="pub-authors">Wenyuan Gu, Jiale Han<sup>†</sup>, Jingyi Zhao, Yuli Chen, Haowen Wang, Bo Cheng.</div>
+    <div class="pub-meta"><span class="pub-venue">IEEE International Conference on Acoustics, Speech, and Signal Processing.</span> <span class="pub-tags pub-tags--inline"><span class="pub-tag">ICASSP 2026</span></span></div>
+  </article>
+
   <article class="pub-item">
     <div class="pub-title">Human or Machine? A Preliminary Turing Test for Speech-to-Speech Interaction. <span class="pub-links"><a href="https://arxiv.org/abs/2602.24080">Paper</a><a href="https://github.com/Carbohydrate1001/S2S-Turing-Test">Code</a></span></div>
     <div class="pub-authors">Xiang Li, Jiabao Gao, Sipei Lin, Xuan Zhou, Chi Zhang, Bo Cheng, Jiale Han<sup>†</sup>, Benyou Wang.</div>
@@ -255,5 +279,9 @@ Full list of publications available on [Google Scholar](https://scholar.google.c
   <div class="award-item">
     <span class="award-icon">🎓</span>
     <span>Outstanding Graduate Award of BUPT, 2023.</span>
+  </div>
+  <div class="award-item">
+    <span class="award-icon">🥈</span>
+    <span><strong>Silver Reviewer Award</strong>, ICML 2026.</span>
   </div>
 </div>
