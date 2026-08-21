@@ -1,4 +1,8 @@
 /* Homepage layout matched to limanling.github.io. */
+html.reference-home {
+  font-size: 14px;
+}
+
 body.reference-home {
   min-height: 100%;
   padding-bottom: 7rem;
@@ -44,6 +48,42 @@ body.reference-home {
 
 .reference-home .greedy-nav .visible-links li {
   display: block;
+}
+
+.reference-home .greedy-nav > button {
+  display: none;
+}
+
+.reference-home .greedy-nav .hidden-links {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  z-index: 30;
+  min-width: 170px;
+  margin-top: 0.55rem;
+  padding: 0.35rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 8px 24px rgba(31, 41, 55, 0.14);
+}
+
+.reference-home .greedy-nav .hidden-links.hidden {
+  display: none;
+}
+
+.reference-home .greedy-nav .hidden-links li {
+  display: block;
+  border-bottom: 1px solid #eef0f3;
+}
+
+.reference-home .greedy-nav .hidden-links li:last-child {
+  border-bottom: 0;
+}
+
+.reference-home .greedy-nav .hidden-links a {
+  margin: 0;
+  padding: 0.55rem 0.75rem;
 }
 
 .reference-home .greedy-nav .visible-links .masthead__menu-item--lg {
@@ -635,10 +675,21 @@ html.theme-dark body.reference-home .homepage-card {
     justify-content: center;
   }
 
+  .reference-home .greedy-nav .visible-links li:not(.masthead__menu-item--lg) {
+    display: none;
+  }
+
   .reference-home .greedy-nav button {
+    display: block;
     right: auto;
     left: 0;
     background: transparent;
+  }
+
+  .reference-home .greedy-nav .hidden-links {
+    right: auto;
+    left: 0;
+    margin-top: 0.55rem;
   }
 
   .reference-home .greedy-nav button .navicon,
