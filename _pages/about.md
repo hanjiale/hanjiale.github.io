@@ -25,6 +25,7 @@ redirect_from:
     <div class="news-timeline">
       <div class="news-timeline__year">2026</div>
       <div>
+        <article class="news-timeline__event"><div>Three papers were accepted to EMNLP 2026—one to the Main Conference and two to Findings. Congratulations and thanks to all our co-authors! 🎉</div><time datetime="2026-08">Aug</time></article>
         <article class="news-timeline__event"><div>We released <em>From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models</em>. <a href="https://arxiv.org/abs/2608.06020">[arXiv]</a> <a href="https://huggingface.co/papers/2608.06020">[Hugging Face]</a> <a href="https://github.com/FreedomIntelligence/Awesome-Economic-World-Models">[GitHub]</a> We would be delighted to hear your thoughts and sincerely appreciate any feedback or discussion.</div><time datetime="2026-08">Aug</time></article>
         <article class="news-timeline__event"><div>I joined the Center for AI for Social Science at Shenzhen Loop Area Institute (SLAI) as a Research Assistant Professor.</div><time datetime="2026-05">May</time></article>
         <article class="news-timeline__event"><div>I concluded my postdoctoral fellowship at the HKUST Business School.</div><time datetime="2026-05">May</time></article>
