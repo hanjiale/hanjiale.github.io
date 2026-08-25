@@ -6,15 +6,20 @@
       <nav id="{% if page.body_class == 'reference-home' %}home-site-nav{% else %}site-nav{% endif %}" class="greedy-nav">
         <button aria-label="{% if page.lang == 'zh-CN' %}打开导航菜单{% else %}Open navigation menu{% endif %}" aria-expanded="false"><div class="navicon"></div></button>
         {% if page.body_class == "reference-home" %}
+        {% assign home_section_prefix = '' %}
+        {% if page.home_sections_external %}
+          {% if page.lang == 'zh-CN' %}{% assign home_section_prefix = '/zh/' %}{% else %}{% assign home_section_prefix = '/' %}{% endif %}
+        {% endif %}
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}{% if page.lang == 'zh-CN' %}/zh/{% else %}/{% endif %}">Jiale Han</a></li>
-          <li class="masthead__menu-item masthead__menu-item--active"><a href="#home">{% if page.lang == "zh-CN" %}主页{% else %}Home{% endif %}</a></li>
-          <li class="masthead__menu-item"><a href="#news">{% if page.lang == "zh-CN" %}新闻{% else %}News{% endif %}</a></li>
-          <li class="masthead__menu-item"><a href="#background">{% if page.lang == "zh-CN" %}个人经历{% else %}Background{% endif %}</a></li>
-          <li class="masthead__menu-item"><a href="#publications">{% if page.lang == "zh-CN" %}论文{% else %}Publications{% endif %}</a></li>
-          <li class="masthead__menu-item"><a href="#awards">{% if page.lang == "zh-CN" %}荣誉{% else %}Awards{% endif %}</a></li>
-          <li class="masthead__menu-item"><a href="#services">{% if page.lang == "zh-CN" %}服务{% else %}Services{% endif %}</a></li>
-          <li class="masthead__menu-item home-language-link"><a href="{{ base_path }}{% if page.lang == 'zh-CN' %}/{% else %}/zh/{% endif %}">{% if page.lang == "zh-CN" %}EN{% else %}中文{% endif %}</a></li>
+          <li class="masthead__menu-item{% unless page.home_sections_external %} masthead__menu-item--active{% endunless %}"><a href="{{ base_path }}{{ home_section_prefix }}#home">{% if page.lang == "zh-CN" %}主页{% else %}Home{% endif %}</a></li>
+          <li class="masthead__menu-item"><a href="{{ base_path }}{{ home_section_prefix }}#news">{% if page.lang == "zh-CN" %}新闻{% else %}News{% endif %}</a></li>
+          <li class="masthead__menu-item"><a href="{{ base_path }}{{ home_section_prefix }}#background">{% if page.lang == "zh-CN" %}个人经历{% else %}Background{% endif %}</a></li>
+          <li class="masthead__menu-item{% if page.students_openings %} masthead__menu-item--active{% endif %}"><a href="{{ base_path }}{% if page.lang == 'zh-CN' %}/zh/students-openings/{% else %}/students-openings/{% endif %}">{% if page.lang == "zh-CN" %}学生与招生{% else %}Students{% endif %}</a></li>
+          <li class="masthead__menu-item"><a href="{{ base_path }}{{ home_section_prefix }}#publications">{% if page.lang == "zh-CN" %}论文{% else %}Publications{% endif %}</a></li>
+          <li class="masthead__menu-item"><a href="{{ base_path }}{{ home_section_prefix }}#awards">{% if page.lang == "zh-CN" %}荣誉{% else %}Awards{% endif %}</a></li>
+          <li class="masthead__menu-item"><a href="{{ base_path }}{{ home_section_prefix }}#services">{% if page.lang == "zh-CN" %}服务{% else %}Services{% endif %}</a></li>
+          <li class="masthead__menu-item home-language-link"><a href="{{ base_path }}{% if page.lang == 'zh-CN' %}{{ page.en_url | default: '/' }}{% else %}{{ page.zh_url | default: '/zh/' }}{% endif %}">{% if page.lang == "zh-CN" %}EN{% else %}中文{% endif %}</a></li>
         </ul>
         <ul class="hidden-links hidden"></ul>
         {% else %}

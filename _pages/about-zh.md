@@ -11,7 +11,7 @@ en_url: /
 <section class="homepage-intro-card">
   <p>你好！👋 我是<strong>韩佳乐</strong>，现任深圳河套学院（SLAI）社会科学人工智能中心研究助理教授。在加入深圳河套学院之前，我曾在香港科技大学工商管理学院从事博士后研究。我于 2023 年获得北京邮电大学计算机科学与技术专业博士学位，攻读博士期间曾赴新加坡科技设计大学联合培养；2018 年获得西安电子科技大学通信工程专业学士学位。</p>
   <p class="research-focus">我的研究聚焦于<strong>面向经济与社会系统的人工智能</strong>，尤其关注<strong><span class="research-topic research-topic--world"><span class="research-topic__icon" aria-hidden="true">🌍</span> 经济世界模型</span>、<span class="research-topic research-topic--social"><span class="research-topic__icon" aria-hidden="true">👥</span> 基于大语言模型的社会模拟</span>，以及<span class="research-topic research-topic--agents"><span class="research-topic__icon" aria-hidden="true">🤖</span> 经济与金融智能体</span></strong>。我研究 AI 智能体如何在动态经济环境中感知、推理、交互与适应，以及如何利用智能体系统建模、模拟并理解现实世界中的经济与金融过程。</p>
-  <p class="reference-recruiting"><span class="recruiting-icon" aria-hidden="true">📢</span> 我正在积极寻找潜在合作者，尤其欢迎对人工智能研究充满热情的同学。如果你希望以研究助理或科研实习生身份参与面向商业与金融应用的人工智能研究，欢迎通过 <a href="mailto:jialehan@slai.edu.cn"><strong>jialehan@slai.edu.cn</strong></a> 与我联系。</p>
+  <p class="reference-recruiting"><span class="recruiting-icon" aria-hidden="true">📢</span> 我正在积极寻找潜在合作者，尤其欢迎热爱人工智能研究的同学。研究助理或博士生机会请通过 <a href="mailto:jialehan@slai.edu.cn"><strong>jialehan@slai.edu.cn</strong></a> 与我联系。<a class="recruiting-details-button recruitment-program__details" href="/zh/students-openings/">学生与招生详情 <span aria-hidden="true">→</span></a></p>
 </section>
 
 <section class="homepage-card" id="news">

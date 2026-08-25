@@ -439,10 +439,14 @@ body.reference-home {
 
 .reference-recruiting {
   margin: 1.25rem 0 0;
-  color: #c62828;
-  font-size: 1.07rem;
-  font-weight: 500;
-  line-height: 1.65;
+  padding: 0.75rem 0.9rem;
+  border-left: 3px solid #7864d7;
+  border-radius: 5px;
+  background: #f7f5fc;
+  color: #45414f;
+  font-size: 0.96rem;
+  font-weight: 400;
+  line-height: 1.58;
 }
 
 .reference-recruiting .recruiting-icon {
@@ -455,7 +459,173 @@ body.reference-home {
 
 .reference-recruiting a,
 .reference-recruiting strong {
-  color: #b71c1c !important;
+  color: #5b49ad !important;
+}
+
+.reference-recruiting .recruiting-details-button {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 0.45rem;
+  padding: 0.15rem 0.5rem;
+  border: 1px solid #afa4d9;
+  border-radius: 5px;
+  background: rgba(255, 255, 255, 0.78);
+  color: #5e4caf !important;
+  font-size: 0.76rem;
+  font-weight: 600;
+  line-height: 1.45;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.reference-recruiting .recruiting-details-button:hover {
+  border-color: #7765c5;
+  color: #4d3da0 !important;
+  text-decoration: none;
+}
+
+.recruitment-program__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+}
+
+.recruitment-program__button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 35px;
+  padding: 0.4rem 0.78rem;
+  border: 1px solid #cfc5ee;
+  border-radius: 8px;
+  background: #fff;
+  color: #5e4caf !important;
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-decoration: none;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease, transform 0.15s ease;
+}
+
+.recruitment-program__button:hover {
+  border-color: #9c8cdb;
+  box-shadow: 0 4px 10px rgba(69, 52, 140, 0.12);
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+.recruitment-program__button--primary {
+  border-color: #6d59c9;
+  background: #6d59c9;
+  color: #fff !important;
+}
+
+.students-page {
+  padding: 1.8rem 2rem;
+}
+
+.students-page__section {
+  padding: 1.35rem 0;
+  border-bottom: 1px solid #dfdfe7;
+}
+
+.students-page__section:first-child {
+  padding-top: 0;
+}
+
+.students-page__section:last-child {
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+.reference-content .students-page__title {
+  margin: 0 0 0.8rem;
+  color: #34343a;
+  font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.reference-content .students-page__section h2 {
+  margin: 0 0 0.8rem;
+  color: #34343a;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.students-page__section-intro {
+  max-width: 720px;
+  margin: -0.25rem 0 0.9rem;
+  color: #65616b;
+  font-size: 0.84rem;
+  line-height: 1.55;
+}
+
+.reference-content .students-page__section h3 {
+  margin: 1rem 0 0.35rem;
+  color: #595960;
+  font-size: 0.86rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.students-page__section-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.students-page__section-heading span {
+  color: #7a7a83;
+  font-size: 0.74rem;
+  white-space: nowrap;
+}
+
+.student-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.student-list li {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.43rem 0;
+}
+
+.student-list li:first-child {
+  padding-top: 0;
+}
+
+.student-list strong {
+  color: #34343a;
+  font-size: 0.88rem;
+}
+
+.student-list p {
+  margin: 0.05rem 0 0;
+  color: #686270;
+  font-size: 0.76rem;
+  line-height: 1.4;
+}
+
+.student-list time {
+  flex: 0 0 auto;
+  color: #817b8c;
+  font-size: 0.72rem;
+  white-space: nowrap;
+}
+
+.students-page__openings p {
+  max-width: 760px;
+  margin: 0 0 0.65rem;
+}
+
+.students-page__openings .recruitment-program__actions {
+  margin-top: 0.85rem;
 }
 
 .reference-news-list {
@@ -785,6 +955,23 @@ html.theme-dark body.reference-home .homepage-card {
   .homepage-card {
     padding: 1.1rem;
     border-radius: 12px;
+  }
+
+  .recruitment-program__button {
+    flex: 1 1 190px;
+  }
+
+  .students-page {
+    padding: 1.15rem;
+  }
+
+  .student-list li {
+    display: block;
+  }
+
+  .student-list time {
+    display: block;
+    margin-top: 0.18rem;
   }
 
   .homepage-card-grid {
