@@ -569,19 +569,6 @@ body.reference-home {
   letter-spacing: 0.02em;
 }
 
-.students-page__section-heading {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 1rem;
-}
-
-.students-page__section-heading span {
-  color: #7a7a83;
-  font-size: 0.74rem;
-  white-space: nowrap;
-}
-
 .student-list {
   margin: 0;
   padding: 0;
@@ -600,13 +587,18 @@ body.reference-home {
   padding-top: 0;
 }
 
+.student-list li > div {
+  min-width: 0;
+}
+
 .student-list strong {
   color: #34343a;
   font-size: 0.88rem;
 }
 
 .student-list p {
-  margin: 0.05rem 0 0;
+  display: inline;
+  margin: 0 0 0 0.35rem;
   color: #686270;
   font-size: 0.76rem;
   line-height: 1.4;
@@ -619,13 +611,63 @@ body.reference-home {
   white-space: nowrap;
 }
 
+.student-cohort {
+  margin-left: 0.35rem;
+  color: #85818a;
+  font-size: 0.72rem;
+  font-weight: 400;
+}
+
+.student-highlight {
+  padding: 0.04rem 0.25rem;
+  border-radius: 3px;
+  background: #eaf5ef;
+  color: #2e6b50;
+  font-weight: 600;
+}
+
 .students-page__openings p {
   max-width: 760px;
   margin: 0 0 0.65rem;
 }
 
-.students-page__openings .recruitment-program__actions {
-  margin-top: 0.85rem;
+.opening-programs {
+  margin: 0.9rem 0 1rem;
+}
+
+.opening-programs section {
+  margin: 0 0 0.7rem;
+  padding-left: 0.85rem;
+  border-left: 2px solid #d9d5e7;
+}
+
+.reference-content .opening-programs h3 {
+  margin: 0 0 0.12rem;
+  color: #444149;
+  font-size: 0.84rem;
+  font-weight: 600;
+}
+
+.students-page__openings .opening-programs p {
+  margin: 0;
+  color: #66616c;
+  font-size: 0.8rem;
+  line-height: 1.5;
+}
+
+.opening-program--deepsight p + p {
+  margin-top: 0.45rem !important;
+}
+
+.opening-program__official {
+  margin-left: 0.2rem;
+  color: #5e4caf;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.opening-program--deepsight .recruitment-program__actions {
+  margin-top: 0.65rem;
 }
 
 .reference-news-list {
