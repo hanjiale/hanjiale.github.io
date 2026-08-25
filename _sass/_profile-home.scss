@@ -569,6 +569,10 @@ body.reference-home {
   letter-spacing: 0.02em;
 }
 
+.students-page__section:not(.students-page__openings) .student-list + h3 {
+  margin-top: 1.5rem;
+}
+
 .student-list {
   margin: 0;
   padding: 0;
@@ -580,7 +584,7 @@ body.reference-home {
   align-items: flex-start;
   justify-content: space-between;
   gap: 1rem;
-  padding: 0.43rem 0;
+  padding: 0.28rem 0;
 }
 
 .student-list li:first-child {
