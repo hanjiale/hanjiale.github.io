@@ -101,6 +101,16 @@ body.reference-home {
   text-decoration: none;
 }
 
+.reference-home .greedy-nav a:focus {
+  outline: none;
+}
+
+.reference-home .greedy-nav a:focus-visible {
+  border-radius: 3px;
+  outline: 2px solid rgba(106, 92, 210, 0.55);
+  outline-offset: 4px;
+}
+
 .reference-home .greedy-nav .masthead__menu-item--lg a {
   margin-left: 0;
   color: #202020;
