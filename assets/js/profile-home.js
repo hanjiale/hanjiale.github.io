@@ -113,6 +113,8 @@
   }
 
   function setupSectionNavigation() {
+    var nav = document.getElementById("home-site-nav");
+
     function targetForHash(hash) {
       if (!hash || hash === "#") return null;
       try {
@@ -122,28 +124,85 @@
       }
     }
 
+    function sectionHashForLink(link) {
+      var url;
+      try {
+        url = new URL(link.href, window.location.href);
+      } catch (error) {
+        return "";
+      }
+      if (url.origin !== window.location.origin || url.pathname !== window.location.pathname) return "";
+      return targetForHash(url.hash) ? url.hash : "";
+    }
+
+    function setActiveSection(hash) {
+      if (!nav || /(?:students-openings|opportunities)/.test(window.location.pathname)) return;
+      var activeHash = hash || "#home";
+      nav.querySelectorAll(".visible-links > li, .hidden-links > li").forEach(function (item) {
+        if (item.classList.contains("masthead__menu-item--lg") || item.classList.contains("home-language-link")) return;
+        var link = item.querySelector("a");
+        item.classList.toggle("masthead__menu-item--active", !!link && sectionHashForLink(link) === activeHash);
+      });
+    }
+
+    function activeSectionForScroll() {
+      var masthead = document.querySelector(".reference-home .masthead");
+      var threshold = (masthead ? masthead.getBoundingClientRect().height : 0) + 24;
+      var activeHash = "#home";
+      var pageHeight = Math.max(document.body.scrollHeight, document.documentElement.scrollHeight);
+      if (window.scrollY + window.innerHeight >= pageHeight - 2 && document.getElementById("services")) return "#services";
+      ["news", "background", "publications", "awards", "services"].forEach(function (id) {
+        var section = document.getElementById(id);
+        if (section && section.getBoundingClientRect().top <= threshold) activeHash = "#" + id;
+      });
+      return activeHash;
+    }
+
+    var scrollFrame = null;
+    var pauseScrollTrackingUntil = window.location.hash ? window.performance.now() + 1000 : 0;
+    function updateActiveSectionForScroll() {
+      if (window.performance.now() < pauseScrollTrackingUntil) return;
+      if (scrollFrame !== null) return;
+      scrollFrame = window.requestAnimationFrame(function () {
+        scrollFrame = null;
+        setActiveSection(activeSectionForScroll());
+      });
+    }
+
     document.addEventListener("click", function (event) {
-      var link = event.target.closest(".reference-home .masthead a[href^='#']");
+      var link = event.target.closest(".reference-home .masthead a");
       if (!link) return;
-      var target = targetForHash(link.getAttribute("href"));
+      var hash = sectionHashForLink(link);
+      var target = targetForHash(hash);
       if (!target) return;
       event.preventDefault();
       event.stopImmediatePropagation();
+      setActiveSection(hash);
       target.scrollIntoView({ behavior: "smooth", block: "start" });
-      if (history.replaceState) history.replaceState(null, "", link.getAttribute("href"));
+      if (history.replaceState) history.replaceState(null, "", hash);
     }, true);
 
     window.addEventListener("load", function () {
-      var target = targetForHash(window.location.hash);
-      if (!target) return;
-      var root = document.documentElement;
-      var previousBehavior = root.style.scrollBehavior;
-      root.style.scrollBehavior = "auto";
-      target.scrollIntoView({ block: "start" });
-      window.requestAnimationFrame(function () {
-        root.style.scrollBehavior = previousBehavior;
-      });
+      if (window.location.hash && targetForHash(window.location.hash)) {
+        pauseScrollTrackingUntil = window.performance.now() + 1000;
+        setActiveSection(window.location.hash);
+      } else {
+        updateActiveSectionForScroll();
+      }
     });
+
+    window.addEventListener("hashchange", function () {
+      if (window.location.hash && targetForHash(window.location.hash)) {
+        pauseScrollTrackingUntil = window.performance.now() + 500;
+        setActiveSection(window.location.hash);
+      } else {
+        updateActiveSectionForScroll();
+      }
+    });
+
+    window.addEventListener("scroll", updateActiveSectionForScroll, { passive: true });
+    window.addEventListener("resize", updateActiveSectionForScroll, { passive: true });
+    updateActiveSectionForScroll();
   }
 
   function initialize() {
