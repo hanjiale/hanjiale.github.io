@@ -21,7 +21,7 @@ en_url: /students-openings/
       <section><h3>博士生机会</h3><p>面向希望通过深圳河套学院联合培养博士项目开展长期研究的博士申请者。</p></section>
       <section class="opening-program--deepsight">
         <h3>DeepSight Program（深瞳计划）</h3>
-        <p>为期 4 周的线下科研实践项目，学生将参与学院真实科研课题。我可以每月滚动推荐合适的同学入营。本期项目时间为<strong>2026 年 9 月 1—24 日</strong>，申请截止至<strong>8 月 26 日</strong>。<a class="opening-program__official" href="https://www.slai.edu.cn/zh-hans/article/503" target="_blank" rel="noopener">学院官方项目介绍 <span aria-hidden="true">↗</span></a></p>
+        <p>为期 4 周的线下科研实践项目，学生将参与学院真实科研课题。我可以每月滚动推荐合适的同学入营。<strong>第三期深瞳计划招生</strong>预计于 2026 年 9 月中下旬启动，具体时间与安排以学院报名系统通知为准。<a class="opening-program__official" href="https://www.slai.edu.cn/zh-hans/article/503" target="_blank" rel="noopener">学院官方项目介绍 <span aria-hidden="true">↗</span></a></p>
         <p>申请者请将个人简历和简短的研究兴趣介绍发送给我；获得导师提名后，通过学院官方报名系统提交申请。</p>
         <div class="recruitment-program__actions">
           <a class="recruitment-program__button recruitment-program__button--primary" href="mailto:jialehan@slai.edu.cn?subject=%E6%B7%B1%E7%9E%B3%E8%AE%A1%E5%88%92%E6%8F%90%E5%90%8D%E7%94%B3%E8%AF%B7">联系我</a>
@@ -51,8 +51,10 @@ en_url: /students-openings/
       <li><div><strong>Zhiyu Lin</strong><p>香港中文大学（深圳）/ 深圳河套学院 · 与 Prof. Benyou Wang 共同指导</p></div><time>2026 年秋季 — 至今</time></li>
     </ul>
 
-    <h3>DeepSight 项目学员 <span class="student-cohort">2026 年 7 月批次</span></h3>
+    <h3>DeepSight 项目学员</h3>
     <ul class="student-list">
+      <li><div><strong>Jing Qian</strong></div><time>2026 年 9 月</time></li>
+      <li><div><strong>Yuzhu Ling</strong><p>香港中文大学（深圳）</p></div><time>2026 年 9 月</time></li>
       <li><div><strong>Xiaozhen Wu</strong><p>武汉大学智能传播文学硕士 · <span class="student-highlight">已获得深圳河套学院博士项目录取资格</span></p></div><time>2026 年 7 月</time></li>
       <li><div><strong>Hanting Wang</strong><p>武汉大学世界经济专业 · <span class="student-highlight">已获得深圳河套学院博士项目录取资格</span></p></div><time>2026 年 7 月</time></li>
       <li><div><strong>Kexin Cao</strong><p>华东师范大学数据科学与大数据技术专业</p></div><time>2026 年 7 月</time></li>

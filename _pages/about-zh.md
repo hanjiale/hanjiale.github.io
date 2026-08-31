@@ -18,6 +18,7 @@ en_url: /
   <header class="homepage-card__header"><h2>新闻</h2><span class="homepage-card__eyebrow">最新动态</span></header>
   <div class="homepage-news-scroll" tabindex="0" aria-label="最新动态，可上下滚动">
     <div class="news-timeline"><div class="news-timeline__year">2026</div><div>
+      <article class="news-timeline__event"><div>我们的论文 <em>WonderEcon: an interactive LLM-agent economic simulation system</em> 被 EMNLP 2026 系统演示赛道（System Demonstrations Track）接收。<a href="https://github.com/Planet-300894/WonderEcon">[GitHub]</a> 🎉</div><time datetime="2026-08">8 月</time></article>
       <article class="news-timeline__event"><div>三篇论文被 EMNLP 2026 接收，其中一篇被主会接收、两篇被 Findings 接收。祝贺并感谢所有合作者！🎉</div><time datetime="2026-08">8 月</time></article>
       <article class="news-timeline__event"><div>我们发布了论文 <em>From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models</em>。<a href="https://arxiv.org/abs/2608.06020">[arXiv]</a> <a href="https://huggingface.co/papers/2608.06020">[Hugging Face]</a> <a href="https://github.com/FreedomIntelligence/Awesome-Economic-World-Models">[GitHub]</a> 欢迎交流讨论，我们非常期待并感谢任何反馈与建议。</div><time datetime="2026-08">8 月</time></article>
       <article class="news-timeline__event"><div>加入深圳河套学院社会科学人工智能中心，担任研究助理教授。</div><time datetime="2026-05">5 月</time></article>
