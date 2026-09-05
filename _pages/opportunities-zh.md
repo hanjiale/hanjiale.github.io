@@ -45,12 +45,6 @@ en_url: /students-openings/
       <li><div><strong>Weibo Chen</strong><p>香港中文大学硕士 · 与 Prof. Lianmin Zhang 共同指导</p></div><time>2026 年 8 月 — 至今</time></li>
     </ul>
 
-    <h3>博士生</h3>
-    <ul class="student-list">
-      <li><div><strong>Jiabao Gao</strong><p>香港中文大学（深圳）/ 深圳河套学院 · 与 Prof. Bingyi Jing 共同指导</p></div><time>2026 年秋季 — 至今</time></li>
-      <li><div><strong>Zhiyu Lin</strong><p>香港中文大学（深圳）/ 深圳河套学院 · 与 Prof. Benyou Wang 共同指导</p></div><time>2026 年秋季 — 至今</time></li>
-    </ul>
-
     <h3>DeepSight 项目学员</h3>
     <ul class="student-list">
       <li><div><strong>Jing Qian</strong></div><time>2026 年 9 月</time></li>

@@ -44,12 +44,6 @@ zh_url: /zh/students-openings/
       <li><div><strong>Weibo Chen</strong><p>M.Sc., The Chinese University of Hong Kong · Co-supervised with Prof. Lianmin Zhang</p></div><time>Aug. 2026 — Present</time></li>
     </ul>
 
-    <h3>Ph.D. Students</h3>
-    <ul class="student-list">
-      <li><div><strong>Jiabao Gao</strong><p>CUHK-Shenzhen / SLAI · Co-supervised with Prof. Bingyi Jing</p></div><time>Fall 2026 — Present</time></li>
-      <li><div><strong>Zhiyu Lin</strong><p>CUHK-Shenzhen / SLAI · Co-supervised with Prof. Benyou Wang</p></div><time>Fall 2026 — Present</time></li>
-    </ul>
-
     <h3>DeepSight Program Participants</h3>
     <ul class="student-list">
       <li><div><strong>Jing Qian</strong></div><time>Sep. 2026</time></li>
