@@ -21,11 +21,14 @@ en_url: /students-openings/
       <section><h3>博士生机会</h3><p>面向希望通过深圳河套学院联合培养博士项目开展长期研究的博士申请者。</p></section>
       <section class="opening-program--deepsight">
         <h3>DeepSight Program（深瞳计划）</h3>
-        <p>为期 4 周的线下科研实践项目，学生将参与学院真实科研课题。我可以每月滚动推荐合适的同学入营。<strong>第三期深瞳计划招生</strong>预计于 2026 年 9 月中下旬启动，具体时间与安排以学院报名系统通知为准。<a class="opening-program__official" href="https://www.slai.edu.cn/zh-hans/article/503" target="_blank" rel="noopener">学院官方项目介绍 <span aria-hidden="true">↗</span></a></p>
-        <p>申请者请将个人简历和简短的研究兴趣介绍发送给我；获得导师提名后，通过学院官方报名系统提交申请。</p>
+        <p>为期 4 周的线下科研实践项目，学生将参与学院真实科研课题。<a class="opening-program__official" href="https://www.slai.edu.cn/zh-hans/article/503" target="_blank" rel="noopener">学院官方项目介绍 <span aria-hidden="true">↗</span></a></p>
+        <p><strong>项目周期：2026 年 10 月 12 日—11 月 6 日。</strong>可根据科研进度，经学生与导师双向协商，额外延长 1 周，最晚至 11 月 13 日。</p>
+        <p><strong>申请时间：即日起至 2026 年 9 月 23 日中午 12:00（北京时间）。</strong>请登录学院招生报名系统，选择“深瞳计划”模块报名。</p>
+        <p>选择“导师提名”的申请人，请下载并填写《深圳河套学院博士生联合培养提名表》，导师签字后上传。如希望获得我的提名，请将个人简历和简短的研究兴趣介绍发送给我。</p>
+        <p>选择“自主报名”的申请人，报名阶段暂无需导师推荐；确认入围后，需确认一位深圳河套学院的双聘或全职导师作为项目导师。</p>
         <div class="recruitment-program__actions">
           <a class="recruitment-program__button recruitment-program__button--primary" href="mailto:jialehan@slai.edu.cn?subject=%E6%B7%B1%E7%9E%B3%E8%AE%A1%E5%88%92%E6%8F%90%E5%90%8D%E7%94%B3%E8%AF%B7">联系我</a>
-          <a class="recruitment-program__button" href="https://sis.slai.edu.cn/admission/" target="_blank" rel="noopener">官方报名系统 <span aria-hidden="true">↗</span></a>
+          <a class="recruitment-program__button" href="https://sis.slai.edu.cn/xby" target="_blank" rel="noopener">官方报名系统 <span aria-hidden="true">↗</span></a>
         </div>
       </section>
     </div>
