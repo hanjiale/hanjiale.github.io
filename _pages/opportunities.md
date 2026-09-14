@@ -23,9 +23,9 @@ zh_url: /zh/students-openings/
         <p>A four-week, on-site program where students participate in active research projects at SLAI. <a class="opening-program__official" href="https://www.slai.edu.cn/zh-hans/article/503" target="_blank" rel="noopener">Official program introduction <span aria-hidden="true">↗</span></a></p>
         <p><strong class="program-date-highlight">Program dates: October 12–November 6, 2026.</strong> With mutual agreement between the student and supervisor, the program may be extended by one week, until November 13, depending on research progress.</p>
         <p><strong class="program-date-highlight">Applications are open now until September 23, 2026, at 12:00 noon (China Standard Time).</strong> Select the “深瞳计划” module in SLAI’s application system.</p>
-        <p>Applicants using the “导师提名” (supervisor nomination) route should download and complete the Shenzhen Loop Area Institute Joint Ph.D. Training Nomination Form (《深圳河套学院博士生联合培养提名表》), obtain their supervisor’s signature, and upload it. For nomination consideration, please email me your CV and a brief description of your research interests.</p>
+        <p>If you are interested, please <a href="mailto:jialehan@slai.edu.cn">email me</a>.</p>
         <div class="recruitment-program__actions">
-          <a class="recruitment-program__button recruitment-program__button--primary" href="mailto:jialehan@slai.edu.cn?subject=DeepSight%20Program%20Nomination">Contact me</a>
+          <a class="recruitment-program__button recruitment-program__button--primary" href="mailto:jialehan@slai.edu.cn">Contact me</a>
           <a class="recruitment-program__button" href="https://sis.slai.edu.cn/xby" target="_blank" rel="noopener">Application portal <span aria-hidden="true">↗</span></a>
         </div>
       </section>
