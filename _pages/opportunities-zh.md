@@ -39,12 +39,12 @@ en_url: /students-openings/
 
     <h3>研究助理</h3>
     <ul class="student-list">
-      <li><div><strong>Jing Qian</strong><p>复旦大学硕士 · 与 Prof. Benyou Wang 共同指导</p></div><time>2026 年 3 月 — 至今</time></li>
-      <li><div><strong>Jie Li</strong><p>新加坡国立大学硕士 · 与 Prof. Benyou Wang 共同指导</p></div><time>2026 年 4 月 — 至今</time></li>
-      <li><div><strong>Huiqian Zeng</strong><p>大连理工大学学士 · 与 Prof. Benyou Wang 共同指导</p></div><time>2026 年 4 月 — 至今</time></li>
+      <li><div><strong>Jing Qian</strong><p>复旦大学硕士</p></div><time>2026 年 3 月 — 至今</time></li>
+      <li><div><strong>Jie Li</strong><p>新加坡国立大学硕士</p></div><time>2026 年 4 月 — 至今</time></li>
+      <li><div><strong>Huiqian Zeng</strong><p>大连理工大学学士</p></div><time>2026 年 4 月 — 至今</time></li>
       <li><div><strong>Haijie Wei</strong><p>香港中文大学硕士</p></div><time>2026 年 7 月 — 至今</time></li>
       <li><div><strong>Tianqi Cai</strong><p>香港中文大学硕士</p></div><time>2026 年 8 月 — 至今</time></li>
-      <li><div><strong>Weibo Chen</strong><p>香港中文大学硕士 · 与 Prof. Lianmin Zhang 共同指导</p></div><time>2026 年 8 月 — 至今</time></li>
+      <li><div><strong>Weibo Chen</strong><p>香港中文大学硕士</p></div><time>2026 年 8 月 — 至今</time></li>
     </ul>
 
     <h3>DeepSight 项目学员</h3>

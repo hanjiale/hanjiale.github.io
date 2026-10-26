@@ -44,7 +44,7 @@ en_url: /research/
     <div class="timeline-date">2026 年至今</div>
     <div class="timeline-body">
       <strong>研究助理教授</strong>
-      <span>深圳河套学院社会科学人工智能中心</span>
+      <span>深圳河套学院社会科学智能中心</span>
     </div>
   </article>
 

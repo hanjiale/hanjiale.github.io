@@ -38,12 +38,12 @@ zh_url: /zh/students-openings/
 
     <h3>Research Assistants</h3>
     <ul class="student-list">
-      <li><div><strong>Jing Qian</strong><p>M.Sc., Fudan University · Co-supervised with Prof. Benyou Wang</p></div><time>Mar. 2026 — Present</time></li>
-      <li><div><strong>Jie Li</strong><p>M.Sc., National University of Singapore · Co-supervised with Prof. Benyou Wang</p></div><time>Apr. 2026 — Present</time></li>
-      <li><div><strong>Huiqian Zeng</strong><p>B.Sc., Dalian University of Technology · Co-supervised with Prof. Benyou Wang</p></div><time>Apr. 2026 — Present</time></li>
+      <li><div><strong>Jing Qian</strong><p>M.Sc., Fudan University</p></div><time>Mar. 2026 — Present</time></li>
+      <li><div><strong>Jie Li</strong><p>M.Sc., National University of Singapore</p></div><time>Apr. 2026 — Present</time></li>
+      <li><div><strong>Huiqian Zeng</strong><p>B.Sc., Dalian University of Technology</p></div><time>Apr. 2026 — Present</time></li>
       <li><div><strong>Haijie Wei</strong><p>M.Sc., The Chinese University of Hong Kong</p></div><time>Jul. 2026 — Present</time></li>
       <li><div><strong>Tianqi Cai</strong><p>M.Sc., The Chinese University of Hong Kong</p></div><time>Aug. 2026 — Present</time></li>
-      <li><div><strong>Weibo Chen</strong><p>M.Sc., The Chinese University of Hong Kong · Co-supervised with Prof. Lianmin Zhang</p></div><time>Aug. 2026 — Present</time></li>
+      <li><div><strong>Weibo Chen</strong><p>M.Sc., The Chinese University of Hong Kong</p></div><time>Aug. 2026 — Present</time></li>
     </ul>
 
     <h3>DeepSight Program Participants</h3>

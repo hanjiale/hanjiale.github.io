@@ -9,7 +9,7 @@ en_url: /
 ---
 
 <section class="homepage-intro-card">
-  <p>你好！👋 我是<strong>韩佳乐</strong>，现任深圳河套学院（SLAI）社会科学人工智能中心研究助理教授。在加入深圳河套学院之前，我曾在香港科技大学工商管理学院从事博士后研究。我于 2023 年获得北京邮电大学计算机科学与技术专业博士学位，攻读博士期间曾赴新加坡科技设计大学联合培养；2018 年获得西安电子科技大学通信工程专业学士学位。</p>
+  <p>你好！👋 我是<strong>韩佳乐</strong>，现任深圳河套学院（SLAI）社会科学智能中心研究助理教授。在加入深圳河套学院之前，我曾在香港科技大学工商管理学院从事博士后研究。我于 2023 年获得北京邮电大学计算机科学与技术专业博士学位，攻读博士期间曾赴新加坡科技设计大学联合培养；2018 年获得西安电子科技大学通信工程专业学士学位。</p>
   <p class="research-focus">我的研究聚焦于<strong>面向经济与社会系统的人工智能</strong>，尤其关注<strong><span class="research-topic research-topic--world"><span class="research-topic__icon" aria-hidden="true">🌍</span> 经济世界模型</span>、<span class="research-topic research-topic--social"><span class="research-topic__icon" aria-hidden="true">👥</span> 基于大语言模型的社会模拟</span>，以及<span class="research-topic research-topic--agents"><span class="research-topic__icon" aria-hidden="true">🤖</span> 经济与金融智能体</span></strong>。我研究 AI 智能体如何在动态经济环境中感知、推理、交互与适应，以及如何利用智能体系统建模、模拟并理解现实世界中的经济与金融过程。</p>
   <p class="reference-recruiting"><span class="recruiting-icon" aria-hidden="true">📢</span> 我正在积极寻找潜在合作者，尤其欢迎热爱人工智能研究的同学。研究助理或博士生机会请通过 <a href="mailto:jialehan@slai.edu.cn"><strong>jialehan@slai.edu.cn</strong></a> 与我联系。<a class="recruiting-details-button recruitment-program__details" href="/zh/students-openings/">学生与招生详情 <span aria-hidden="true">→</span></a></p>
 </section>
@@ -21,7 +21,7 @@ en_url: /
       <article class="news-timeline__event"><div>我们的论文 <em>WonderEcon: an interactive LLM-agent economic simulation system</em> 被 EMNLP 2026 系统演示赛道（System Demonstrations Track）接收。<a href="https://github.com/Planet-300894/WonderEcon">[GitHub]</a> 🎉</div><time datetime="2026-08">8 月</time></article>
       <article class="news-timeline__event"><div>三篇论文被 EMNLP 2026 接收，其中一篇被主会接收、两篇被 Findings 接收。祝贺并感谢所有合作者！🎉</div><time datetime="2026-08">8 月</time></article>
       <article class="news-timeline__event"><div>我们发布了论文 <em>From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models</em>。<a href="https://arxiv.org/abs/2608.06020">[arXiv]</a> <a href="https://huggingface.co/papers/2608.06020">[Hugging Face]</a> <a href="https://github.com/FreedomIntelligence/Awesome-Economic-World-Models">[GitHub]</a> 欢迎交流讨论，我们非常期待并感谢任何反馈与建议。</div><time datetime="2026-08">8 月</time></article>
-      <article class="news-timeline__event"><div>加入深圳河套学院社会科学人工智能中心，担任研究助理教授。</div><time datetime="2026-05">5 月</time></article>
+      <article class="news-timeline__event"><div>加入深圳河套学院社会科学智能中心，担任研究助理教授。</div><time datetime="2026-05">5 月</time></article>
       <article class="news-timeline__event"><div>结束在香港科技大学工商管理学院的博士后研究工作。</div><time datetime="2026-05">5 月</time></article>
     </div></div>
   </div>
@@ -35,7 +35,7 @@ en_url: /
       <div class="background-timeline">
         <article class="background-item">
           <div class="background-item__heading"><strong><img class="institution-logo" src="/images/institutions/slai-mark.png" alt="深圳河套学院校徽">深圳河套学院</strong><time>2026 年 5 月 — 至今</time></div>
-          <p>社会科学人工智能中心，研究助理教授。</p>
+          <p>社会科学智能中心，研究助理教授。</p>
         </article>
         <article class="background-item">
           <div class="background-item__heading"><strong><img class="institution-logo" src="/images/institutions/hkust.ico" alt="香港科技大学校徽">香港科技大学</strong><time>2024 年 5 月 — 2026 年 5 月</time></div>
