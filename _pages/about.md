@@ -19,15 +19,15 @@ redirect_from:
 <section class="homepage-card" id="news">
   <header class="homepage-card__header">
     <h2>News</h2>
-    <span class="homepage-card__eyebrow">Latest updates</span>
   </header>
   <div class="homepage-news-scroll" tabindex="0" aria-label="Latest news; scroll vertically">
     <div class="news-timeline">
       <div class="news-timeline__year">2026</div>
       <div>
-        <article class="news-timeline__event"><div>Our paper, <em>WonderEcon: an interactive LLM-agent economic simulation system</em>, was accepted to the EMNLP 2026 System Demonstrations Track. <a href="https://github.com/Planet-300894/WonderEcon">[GitHub]</a> 🎉</div><time datetime="2026-08">Aug</time></article>
+        <article class="news-timeline__event"><div>Our paper, WonderEcon: an interactive LLM-agent economic simulation system, received the <strong class="award-highlight">Best Demonstration Award</strong> at EMNLP 2026. <a href="https://aclanthology.org/2026.emnlp-demos.77.pdf">[Paper]</a> <a href="https://github.com/Planet-300894/WonderEcon">[GitHub]</a> <a href="https://wonderecon.com/">[Website]</a> 🏅</div><time datetime="2026-10">Oct</time></article>
+
         <article class="news-timeline__event"><div>Three papers were accepted to EMNLP 2026—one to the Main Conference and two to Findings. Congratulations and thanks to all our co-authors! 🎉</div><time datetime="2026-08">Aug</time></article>
-        <article class="news-timeline__event"><div>We released <em>From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models</em>. <a href="https://arxiv.org/abs/2608.06020">[arXiv]</a> <a href="https://huggingface.co/papers/2608.06020">[Hugging Face]</a> <a href="https://github.com/FreedomIntelligence/Awesome-Economic-World-Models">[GitHub]</a> We would be delighted to hear your thoughts and sincerely appreciate any feedback or discussion.</div><time datetime="2026-08">Aug</time></article>
+        <article class="news-timeline__event"><div>We released From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models. <a href="https://arxiv.org/abs/2608.06020">[arXiv]</a> <a href="https://huggingface.co/papers/2608.06020">[Hugging Face]</a> <a href="https://github.com/FreedomIntelligence/Awesome-Economic-World-Models">[GitHub]</a> We would be delighted to hear your thoughts and sincerely appreciate any feedback or discussion.</div><time datetime="2026-08">Aug</time></article>
         <article class="news-timeline__event"><div>I joined the Center for AI for Social Science at Shenzhen Loop Area Institute (SLAI) as a Research Assistant Professor.</div><time datetime="2026-05">May</time></article>
         <article class="news-timeline__event"><div>I concluded my postdoctoral fellowship at the HKUST Business School.</div><time datetime="2026-05">May</time></article>
       </div>
@@ -36,7 +36,7 @@ redirect_from:
 </section>
 
 <section class="homepage-card" id="background">
-  <header class="homepage-card__header"><h2>Background</h2><span class="homepage-card__eyebrow">Experience &amp; Education</span></header>
+  <header class="homepage-card__header"><h2>Background</h2></header>
   <div class="background-grid">
     <section class="background-column">
       <h3>Research Experience</h3>
@@ -71,10 +71,23 @@ redirect_from:
   </div>
 </section>
 
+<section class="homepage-card" id="featured-work">
+  <header class="homepage-card__header"><h2>Featured Work</h2></header>
+  <div class="featured-work">
+    <a class="featured-work__media" href="https://wonderecon.com/" target="_blank" rel="noopener">
+      <img src="https://github.com/Planet-300894/WonderEcon/raw/refs/heads/main/readme_assets/player_mode/p_start.gif" alt="Animated WonderEcon player-mode demo showing a player entering the simulated economy">
+    </a>
+    <div class="featured-work__content">
+      <h3>WonderEcon: an interactive LLM-agent economic simulation system</h3>
+      <p>A playable, LLM-driven economic simulation where households, firms, banks, and public institutions interact across five markets. Players can take over a household agent, explore counterfactual decisions, and discover their Economic Personality Type Indicator (EPTI). <strong>EMNLP 2026 Best Demonstration Award</strong>.</p>
+      <p class="featured-work__links"><a href="https://aclanthology.org/2026.emnlp-demos.77.pdf">Paper</a><a href="https://github.com/Planet-300894/WonderEcon">GitHub</a><a href="https://wonderecon.com/">Live Demo</a></p>
+    </div>
+  </div>
+</section>
+
 <section class="homepage-card" id="publications">
 <header class="homepage-card__header">
   <h2>Publications</h2>
-  <span class="homepage-card__eyebrow">Research</span>
 </header>
 
 <p class="reference-section-note"><sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author. The full publication list is available on <a href="https://scholar.google.com/citations?hl=en&amp;user=itFycmoAAAAJ">Google Scholar</a>.</p>
@@ -82,37 +95,45 @@ redirect_from:
 <h3 class="reference-subheading">Working Papers</h3>
 
 <ul class="reference-publications">
-  <li><strong>Hypergraph Modeling of Supply Chains: Unveiling the Impact of High-Order and Temporal Dynamics on Credit Risk Prediction.</strong> Jiale Han, Yi Yang, Yangyang Fan, Zhongju Zhang. <em>Production and Operations Management (UTD 24), Second-Round Major Revision</em>.</li>
-  <li><strong>HoneyImage: Verifiable, Harmless, and Stealthy Dataset Ownership Verification for Image Models.</strong> Zhihao Zhu, Jiale Han, Yi Yang. <em>Management Information Systems Quarterly (UTD 24), Major Revision</em>. <a href="https://arxiv.org/abs/2508.00892">[Paper]</a></li>
-  <li><strong>RAG Meets Temporal Graphs: Time-Sensitive Modeling and Retrieval for Evolving Knowledge.</strong> Jiale Han, Austin Cheung, Yubai Wei, Zheng Yu, Xusheng Wang, Bing Zhu, Yi Yang. <em>Under Review</em>. <a href="https://arxiv.org/abs/2510.13590">[Paper]</a> <a href="https://github.com/hanjiale/Temporal-GraphRAG">[Code]</a></li>
+  <li><strong>Hypergraph Modeling of Supply Chains: Unveiling the Impact of High-Order and Temporal Dynamics on Credit Risk Prediction.</strong> Jiale Han, Yi Yang, Yangyang Fan, Zhongju Zhang. Production and Operations Management (UTD 24), Second-Round Major Revision.</li>
+  <li><strong>HoneyImage: Verifiable, Harmless, and Stealthy Dataset Ownership Verification for Image Models.</strong> Zhihao Zhu, Jiale Han, Yi Yang. Management Information Systems Quarterly (UTD 24), Major Revision. <a href="https://arxiv.org/abs/2508.00892">[Paper]</a></li>
+  <li><strong>RAG Meets Temporal Graphs: Time-Sensitive Modeling and Retrieval for Evolving Knowledge.</strong> Jiale Han, Austin Cheung, Yubai Wei, Zheng Yu, Xusheng Wang, Bing Zhu, Yi Yang. Under Review. <a href="https://arxiv.org/abs/2510.13590">[Paper]</a> <a href="https://github.com/hanjiale/Temporal-GraphRAG">[Code]</a></li>
 </ul>
 
 <h3 class="reference-subheading">Selected Publications</h3>
 
 <ul class="reference-publications">
-  <li><strong>Human or Machine? A Preliminary Turing Test for Speech-to-Speech Interaction.</strong> Xiang Li, Jiabao Gao, Sipei Lin, Xuan Zhou, Chi Zhang, Bo Cheng, Jiale Han<sup>†</sup>, Benyou Wang. <em>ICLR 2026</em>. <a href="https://arxiv.org/abs/2602.24080">[Paper]</a> <a href="https://github.com/Carbohydrate1001/S2S-Turing-Test">[Code]</a></li>
-  <li><strong>CGSVD: Cascaded Granular Singular Value Decomposition for Large Language Model Compression.</strong> Yuli Chen, Shuhao Zhang, Jiale Han, Fanshen Meng, Haishen Jiang, Bo Cheng, Qiang Tong, Xiulei Liu. <em>ICML 2026</em>. <a href="https://openreview.net/forum?id=x23DAFnbhi">[Paper]</a></li>
-  <li><strong>Beyond A Fixed Seal: Adaptive Stealing Watermark in Large Language Models.</strong> Shuhao Zhang, Yuli Chen, Jiale Han<sup>†</sup>, Bo Cheng<sup>†</sup>, Jiabao Ma. <em>ACL Findings 2026</em>. <a href="https://aclanthology.org/2026.findings-acl.1036/">[Paper]</a></li>
-  <li><strong>TTS-Hub: Leveraging Modular LoRAs and Arithmetic Composition for Controllable Text-to-Speech.</strong> Xiang Li, Shiqi Zhang, Zichen Xu, Wenyuan Gu, Hongru Xiao, Bo Cheng, Li Zhou, Jiale Han<sup>†</sup>, Benyou Wang. <em>EMNLP 2026</em>. <a href="https://openreview.net/forum?id=0x5RjTe8ph">[Paper]</a></li>
-  <li><strong>Analyze–Compose–Execute: A Dynamic Dialogue Framework for Multi-Agent Debate.</strong> Wenyuan Gu, Haowen Wang, Jiale Han<sup>†</sup>, Xiang Li, Zhixuan Wu, Hongru Xiao, Bo Cheng<sup>†</sup>. <em>AAAI 2026</em>.</li>
-  <li><strong>DLP: Dynamic Layerwise Pruning in Large Language Models.</strong> Yuli Chen, Bo Cheng<sup>†</sup>, Jiale Han<sup>†</sup>, Yingying Zhang, Yingting Li, Shuhao Zhang. <em>ICML 2025</em>. <a href="https://arxiv.org/abs/2505.23807">[Paper]</a> <a href="https://github.com/ironartisan/DLP">[Code]</a></li>
-  <li><strong>Adapting General-Purpose Embedding Models to Private Datasets Using Keyword-based Retrieval.</strong> Yubai Wei, Jiale Han, Yi Yang. <em>ACL Findings 2025</em>. <a href="https://doi.org/10.18653/v1/2025.findings-acl.357">[Paper]</a> <a href="https://github.com/BaileyWei/BMEmbed">[Code]</a></li>
-  <li><strong>Explain-Analyze-Generate: A Sequential Multi-Agent Collaboration Method for Complex Reasoning.</strong> Wenyuan Gu<sup>*</sup>, Jiale Han<sup>*</sup>, Haowen Wang, Xiang Li, Bo Cheng. <em>COLING 2025</em>. <a href="https://aclanthology.org/2025.coling-main.475/">[Paper]</a></li>
-  <li><strong>VideoQA-TA: Temporal-Aware Multi-Modal Video Question Answering.</strong> Zhixuan Wu, Bo Cheng, Jiale Han, Jiabao Ma, Shuhao Zhang, Yuli Chen, Changbo Li. <em>COLING 2025, Outstanding Paper</em>. <a href="https://aclanthology.org/2025.coling-main.483/">[Paper]</a> <a href="https://github.com/YALYAshley/VideoQA-TA">[Code]</a></li>
-  <li><strong>Towards Hard Few-Shot Relation Classification.</strong> Jiale Han, Bo Cheng, Zhiguo Wan, Wei Lu. <em>IEEE TKDE 2023</em>. <a href="https://ieeexplore.ieee.org/document/10032649">[Paper]</a></li>
-  <li><strong>Generative Prompt Tuning for Relation Classification.</strong> Jiale Han, Shuai Zhao, Bo Cheng, Shengkun Ma, Wei Lu. <em>EMNLP Findings 2022</em>. <a href="https://doi.org/10.18653/v1/2022.findings-emnlp.231">[Paper]</a> <a href="https://github.com/hanjiale/GenPT">[Code]</a></li>
-  <li><strong>Exploring Task Difficulty for Few-Shot Relation Extraction.</strong> Jiale Han, Bo Cheng, Wei Lu. <em>EMNLP 2021</em>. <a href="https://doi.org/10.18653/v1/2021.emnlp-main.204">[Paper]</a> <a href="https://github.com/hanjiale/HCRP">[Code]</a></li>
-  <li><strong>Learning Discriminative and Unbiased Representations for Few-Shot Relation Extraction.</strong> Jiale Han, Bo Cheng, Guoshun Nan. <em>CIKM 2021</em>. <a href="https://doi.org/10.1145/3459637.3482268">[Paper]</a></li>
-  <li><strong>Open Domain Question Answering based on Text Enhanced Knowledge Graph with Hyperedge Infusion.</strong> Jiale Han, Bo Cheng, Xu Wang. <em>EMNLP Findings 2020</em>. <a href="https://doi.org/10.18653/v1/2020.findings-emnlp.133">[Paper]</a></li>
-  <li><strong>Two-Phase Hypergraph based Reasoning with Dynamic Relations for Multi-Hop KBQA.</strong> Jiale Han, Bo Cheng, Xu Wang. <em>IJCAI 2020</em>. <a href="https://doi.org/10.24963/ijcai.2020/500">[Paper]</a></li>
-  <li><strong>Hypergraph Convolutional Network for Multi-Hop Knowledge Base Question Answering.</strong> Jiale Han, Bo Cheng, Xu Wang. <em>AAAI 2020</em>. <a href="https://doi.org/10.1609/aaai.v34i10.7172">[Paper]</a></li>
+  <li><strong>Human or Machine? A Preliminary Turing Test for Speech-to-Speech Interaction.</strong> Xiang Li, Jiabao Gao, Sipei Lin, Xuan Zhou, Chi Zhang, Bo Cheng, Jiale Han<sup>†</sup>, Benyou Wang. ICLR 2026. <a href="https://arxiv.org/abs/2602.24080">[Paper]</a> <a href="https://github.com/Carbohydrate1001/S2S-Turing-Test">[Code]</a></li>
+  <li><strong>CGSVD: Cascaded Granular Singular Value Decomposition for Large Language Model Compression.</strong> Yuli Chen, Shuhao Zhang, Jiale Han, Fanshen Meng, Haishen Jiang, Bo Cheng, Qiang Tong, Xiulei Liu. ICML 2026. <a href="https://openreview.net/forum?id=x23DAFnbhi">[Paper]</a></li>
+  <li><strong>Beyond A Fixed Seal: Adaptive Stealing Watermark in Large Language Models.</strong> Shuhao Zhang, Yuli Chen, Jiale Han<sup>†</sup>, Bo Cheng<sup>†</sup>, Jiabao Ma. ACL Findings 2026. <a href="https://aclanthology.org/2026.findings-acl.1036/">[Paper]</a></li>
+  <li><strong>TTS-Hub: Leveraging Modular LoRAs and Arithmetic Composition for Controllable Text-to-Speech.</strong> Xiang Li, Shiqi Zhang, Zichen Xu, Wenyuan Gu, Hongru Xiao, Bo Cheng, Li Zhou, Jiale Han<sup>†</sup>, Benyou Wang. EMNLP 2026. <a href="https://openreview.net/forum?id=0x5RjTe8ph">[Paper]</a></li>
+  <li><strong>Analyze–Compose–Execute: A Dynamic Dialogue Framework for Multi-Agent Debate.</strong> Wenyuan Gu, Haowen Wang, Jiale Han<sup>†</sup>, Xiang Li, Zhixuan Wu, Hongru Xiao, Bo Cheng<sup>†</sup>. AAAI 2026.</li>
+  <li><strong>DLP: Dynamic Layerwise Pruning in Large Language Models.</strong> Yuli Chen, Bo Cheng<sup>†</sup>, Jiale Han<sup>†</sup>, Yingying Zhang, Yingting Li, Shuhao Zhang. ICML 2025. <a href="https://arxiv.org/abs/2505.23807">[Paper]</a> <a href="https://github.com/ironartisan/DLP">[Code]</a></li>
+  <li><strong>Adapting General-Purpose Embedding Models to Private Datasets Using Keyword-based Retrieval.</strong> Yubai Wei, Jiale Han, Yi Yang. ACL Findings 2025. <a href="https://doi.org/10.18653/v1/2025.findings-acl.357">[Paper]</a> <a href="https://github.com/BaileyWei/BMEmbed">[Code]</a></li>
+  <li><strong>Explain-Analyze-Generate: A Sequential Multi-Agent Collaboration Method for Complex Reasoning.</strong> Wenyuan Gu<sup>*</sup>, Jiale Han<sup>*</sup>, Haowen Wang, Xiang Li, Bo Cheng. COLING 2025. <a href="https://aclanthology.org/2025.coling-main.475/">[Paper]</a></li>
+  <li><strong>VideoQA-TA: Temporal-Aware Multi-Modal Video Question Answering.</strong> Zhixuan Wu, Bo Cheng, Jiale Han, Jiabao Ma, Shuhao Zhang, Yuli Chen, Changbo Li. COLING 2025, Outstanding Paper. <a href="https://aclanthology.org/2025.coling-main.483/">[Paper]</a> <a href="https://github.com/YALYAshley/VideoQA-TA">[Code]</a></li>
+  <li><strong>Towards Hard Few-Shot Relation Classification.</strong> Jiale Han, Bo Cheng, Zhiguo Wan, Wei Lu. IEEE TKDE 2023. <a href="https://ieeexplore.ieee.org/document/10032649">[Paper]</a></li>
+  <li><strong>Generative Prompt Tuning for Relation Classification.</strong> Jiale Han, Shuai Zhao, Bo Cheng, Shengkun Ma, Wei Lu. EMNLP Findings 2022. <a href="https://doi.org/10.18653/v1/2022.findings-emnlp.231">[Paper]</a> <a href="https://github.com/hanjiale/GenPT">[Code]</a></li>
+  <li><strong>Exploring Task Difficulty for Few-Shot Relation Extraction.</strong> Jiale Han, Bo Cheng, Wei Lu. EMNLP 2021. <a href="https://doi.org/10.18653/v1/2021.emnlp-main.204">[Paper]</a> <a href="https://github.com/hanjiale/HCRP">[Code]</a></li>
+  <li><strong>Learning Discriminative and Unbiased Representations for Few-Shot Relation Extraction.</strong> Jiale Han, Bo Cheng, Guoshun Nan. CIKM 2021. <a href="https://doi.org/10.1145/3459637.3482268">[Paper]</a></li>
+  <li><strong>Open Domain Question Answering based on Text Enhanced Knowledge Graph with Hyperedge Infusion.</strong> Jiale Han, Bo Cheng, Xu Wang. EMNLP Findings 2020. <a href="https://doi.org/10.18653/v1/2020.findings-emnlp.133">[Paper]</a></li>
+  <li><strong>Two-Phase Hypergraph based Reasoning with Dynamic Relations for Multi-Hop KBQA.</strong> Jiale Han, Bo Cheng, Xu Wang. IJCAI 2020. <a href="https://doi.org/10.24963/ijcai.2020/500">[Paper]</a></li>
+  <li><strong>Hypergraph Convolutional Network for Multi-Hop Knowledge Base Question Answering.</strong> Jiale Han, Bo Cheng, Xu Wang. AAAI 2020. <a href="https://doi.org/10.1609/aaai.v34i10.7172">[Paper]</a></li>
 </ul>
 </section>
 
 <div class="homepage-card-grid">
-  <section class="homepage-card" id="awards">
-    <header class="homepage-card__header"><h2>Awards</h2><span class="homepage-card__eyebrow">Honors</span></header>
+  <section class="homepage-card" id="invited-talks">
+    <header class="homepage-card__header"><h2>Invited Talks</h2></header>
     <ul class="reference-awards">
+      <li><a href="https://www.x-agi.cc/schedule/">XAGI 2026</a> — “From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models,” AI + Finance session, Beijing, Oct. 17, 2026.</li>
+    </ul>
+  </section>
+
+  <section class="homepage-card" id="awards">
+    <header class="homepage-card__header"><h2>Awards</h2></header>
+    <ul class="reference-awards">
+      <li><strong>Best Demonstration Award</strong>, EMNLP 2026.</li>
       <li><strong>Outstanding Paper</strong>, the 31st International Conference on Computational Linguistics, 2025.</li>
       <li>Outstanding Graduate Award of BUPT, 2023.</li>
       <li><strong>Silver Reviewer Award</strong>, ICML 2026.</li>
@@ -120,7 +141,7 @@ redirect_from:
   </section>
 
   <section class="homepage-card" id="services">
-    <header class="homepage-card__header"><h2>Academic Services</h2><span class="homepage-card__eyebrow">Community</span></header>
+    <header class="homepage-card__header"><h2>Academic Services</h2></header>
     <h3 class="reference-subheading">Business and Information Systems</h3>
     <ul class="reference-service-list"><li><strong>Journal Reviewer:</strong> MIS Quarterly, Information Systems Research, INFORMS Journal on Computing.</li></ul>
     <h3 class="reference-subheading">Artificial Intelligence</h3>
