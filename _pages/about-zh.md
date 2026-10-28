@@ -67,7 +67,7 @@ en_url: /
   <header class="homepage-card__header"><h2>代表性工作</h2></header>
   <div class="featured-work">
     <a class="featured-work__media" href="https://wonderecon.com/" target="_blank" rel="noopener">
-      <img src="https://github.com/Planet-300894/WonderEcon/raw/refs/heads/main/readme_assets/player_mode/p_start.gif" alt="WonderEcon 玩家模式演示动图，展示玩家进入模拟经济世界">
+      <img src="/images/wonderecon-overview.svg" alt="WonderEcon 系统概览：大语言模型智能体通过五类市场互动，玩家可进行反事实探索并获得经济人格画像">
     </a>
     <div class="featured-work__content">
       <h3>WonderEcon: an interactive LLM-agent economic simulation system</h3>

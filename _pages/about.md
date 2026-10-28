@@ -75,7 +75,7 @@ redirect_from:
   <header class="homepage-card__header"><h2>Featured Work</h2></header>
   <div class="featured-work">
     <a class="featured-work__media" href="https://wonderecon.com/" target="_blank" rel="noopener">
-      <img src="https://github.com/Planet-300894/WonderEcon/raw/refs/heads/main/readme_assets/player_mode/p_start.gif" alt="Animated WonderEcon player-mode demo showing a player entering the simulated economy">
+      <img src="/images/wonderecon-overview.svg" alt="WonderEcon system overview: LLM agents interact through five markets, with a human player exploring counterfactuals and an economic personality profile">
     </a>
     <div class="featured-work__content">
       <h3>WonderEcon: an interactive LLM-agent economic simulation system</h3>
