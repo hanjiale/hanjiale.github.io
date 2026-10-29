@@ -63,17 +63,17 @@ en_url: /
   </div>
 </section>
 
-<section class="homepage-card" id="featured-work">
-  <header class="homepage-card__header"><h2>代表性工作</h2></header>
+<section class="homepage-card" id="publications">
+  <header class="homepage-card__header"><h2>论文</h2></header>
+  <p class="reference-section-note"><sup>*</sup> 共同贡献；<sup>†</sup> 通讯作者。完整论文列表请参阅 <a href="https://scholar.google.com/citations?hl=en&amp;user=itFycmoAAAAJ">Google Scholar</a>。</p>
+  <h3 class="reference-subheading" id="featured-work">代表性工作</h3>
   <div class="featured-work">
     <div class="featured-work__media">
       <a href="https://github.com/Planet-300894/WonderEcon/blob/main/readme_assets/observer_mode/o_choose_agent_and_start.gif" target="_blank" rel="noopener">
         <img src="/images/wonderecon/o_choose_agent_and_start.gif" alt="WonderEcon 观察模式：选择家庭智能体并启动模拟">
-        <span>选择智能体</span>
       </a>
       <a href="https://github.com/Planet-300894/WonderEcon/blob/main/readme_assets/observer_mode/o_5_scenes.gif" target="_blank" rel="noopener">
         <img src="/images/wonderecon/o_5_scenes.gif" alt="WonderEcon 的五类经济市场场景">
-        <span>探索五类市场场景</span>
       </a>
     </div>
     <div class="featured-work__content">
@@ -82,11 +82,6 @@ en_url: /
       <p class="featured-work__links"><a href="https://aclanthology.org/2026.emnlp-demos.77.pdf">论文</a><a href="https://github.com/Planet-300894/WonderEcon">GitHub</a><a href="https://wonderecon.com/">在线演示</a></p>
     </div>
   </div>
-</section>
-
-<section class="homepage-card" id="publications">
-  <header class="homepage-card__header"><h2>论文</h2></header>
-  <p class="reference-section-note"><sup>*</sup> 共同贡献；<sup>†</sup> 通讯作者。完整论文列表请参阅 <a href="https://scholar.google.com/citations?hl=en&amp;user=itFycmoAAAAJ">Google Scholar</a>。</p>
   <h3 class="reference-subheading">工作论文</h3>
   <ul class="reference-publications">
     <li><strong>Hypergraph Modeling of Supply Chains: Unveiling the Impact of High-Order and Temporal Dynamics on Credit Risk Prediction.</strong> Jiale Han, Yi Yang, Yangyang Fan, Zhongju Zhang. Production and Operations Management (UTD 24)，第二轮大修中。</li>

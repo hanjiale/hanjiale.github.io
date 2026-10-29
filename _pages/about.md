@@ -71,33 +71,29 @@ redirect_from:
   </div>
 </section>
 
-<section class="homepage-card" id="featured-work">
-  <header class="homepage-card__header"><h2>Featured Work</h2></header>
-  <div class="featured-work">
-    <div class="featured-work__media">
-      <a href="https://github.com/Planet-300894/WonderEcon/blob/main/readme_assets/observer_mode/o_choose_agent_and_start.gif" target="_blank" rel="noopener">
-        <img src="/images/wonderecon/o_choose_agent_and_start.gif" alt="WonderEcon observer mode: selecting a household agent and starting a simulation">
-        <span>Choose an agent</span>
-      </a>
-      <a href="https://github.com/Planet-300894/WonderEcon/blob/main/readme_assets/observer_mode/o_5_scenes.gif" target="_blank" rel="noopener">
-        <img src="/images/wonderecon/o_5_scenes.gif" alt="WonderEcon’s five economic market scenes">
-        <span>Explore five market scenes</span>
-      </a>
-    </div>
-    <div class="featured-work__content">
-      <h3>WonderEcon: an interactive LLM-agent economic simulation system</h3>
-      <p>A playable, LLM-driven economic simulation where households, firms, banks, and public institutions interact across five markets. Players can take over a household agent, explore counterfactual decisions, and discover their Economic Personality Type Indicator (EPTI). <strong>EMNLP 2026 Best Demonstration Award</strong>.</p>
-      <p class="featured-work__links"><a href="https://aclanthology.org/2026.emnlp-demos.77.pdf">Paper</a><a href="https://github.com/Planet-300894/WonderEcon">GitHub</a><a href="https://wonderecon.com/">Live Demo</a></p>
-    </div>
-  </div>
-</section>
-
 <section class="homepage-card" id="publications">
 <header class="homepage-card__header">
   <h2>Publications</h2>
 </header>
 
 <p class="reference-section-note"><sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author. The full publication list is available on <a href="https://scholar.google.com/citations?hl=en&amp;user=itFycmoAAAAJ">Google Scholar</a>.</p>
+
+<h3 class="reference-subheading" id="featured-work">Featured Work</h3>
+<div class="featured-work">
+  <div class="featured-work__media">
+    <a href="https://github.com/Planet-300894/WonderEcon/blob/main/readme_assets/observer_mode/o_choose_agent_and_start.gif" target="_blank" rel="noopener">
+      <img src="/images/wonderecon/o_choose_agent_and_start.gif" alt="WonderEcon observer mode: selecting a household agent and starting a simulation">
+    </a>
+    <a href="https://github.com/Planet-300894/WonderEcon/blob/main/readme_assets/observer_mode/o_5_scenes.gif" target="_blank" rel="noopener">
+      <img src="/images/wonderecon/o_5_scenes.gif" alt="WonderEcon’s five economic market scenes">
+    </a>
+  </div>
+  <div class="featured-work__content">
+    <h3>WonderEcon: an interactive LLM-agent economic simulation system</h3>
+    <p>A playable, LLM-driven economic simulation where households, firms, banks, and public institutions interact across five markets. Players can take over a household agent, explore counterfactual decisions, and discover their Economic Personality Type Indicator (EPTI). <strong>EMNLP 2026 Best Demonstration Award</strong>.</p>
+    <p class="featured-work__links"><a href="https://aclanthology.org/2026.emnlp-demos.77.pdf">Paper</a><a href="https://github.com/Planet-300894/WonderEcon">GitHub</a><a href="https://wonderecon.com/">Live Demo</a></p>
+  </div>
+</div>
 
 <h3 class="reference-subheading">Working Papers</h3>
 
