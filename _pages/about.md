@@ -89,7 +89,7 @@ redirect_from:
     </a>
   </div>
   <div class="featured-work__content">
-    <h3>WonderEcon: an interactive LLM-agent economic simulation system</h3>
+    <h3>WonderEcon: An Interactive LLM-Agent System for Simulating Economies</h3>
     <p>A playable, LLM-driven economic simulation where households, firms, banks, and public institutions interact across five markets. Players can take over a household agent, explore counterfactual decisions, and discover their Economic Personality Type Indicator (EPTI). <strong>EMNLP 2026 Best Demonstration Award</strong>.</p>
     <p class="featured-work__links"><a href="https://aclanthology.org/2026.emnlp-demos.77.pdf">Paper</a><a href="https://github.com/Planet-300894/WonderEcon">GitHub</a><a href="https://wonderecon.com/">Live Demo</a></p>
   </div>

@@ -77,7 +77,7 @@ en_url: /
       </a>
     </div>
     <div class="featured-work__content">
-      <h3>WonderEcon: an interactive LLM-agent economic simulation system</h3>
+      <h3>WonderEcon: An Interactive LLM-Agent System for Simulating Economies</h3>
       <p>一个由大语言模型驱动的可交互经济模拟系统，涵盖家庭、企业、银行和公共部门在五类市场中的互动。玩家可以接管一个家庭智能体，探索不同决策带来的反事实结果，并发现自己的经济人格类型（EPTI）。<strong>EMNLP 2026 最佳演示奖</strong>。</p>
       <p class="featured-work__links"><a href="https://aclanthology.org/2026.emnlp-demos.77.pdf">论文</a><a href="https://github.com/Planet-300894/WonderEcon">GitHub</a><a href="https://wonderecon.com/">在线演示</a></p>
     </div>
