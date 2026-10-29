@@ -66,9 +66,16 @@ en_url: /
 <section class="homepage-card" id="featured-work">
   <header class="homepage-card__header"><h2>代表性工作</h2></header>
   <div class="featured-work">
-    <a class="featured-work__media" href="https://wonderecon.com/" target="_blank" rel="noopener">
-      <img src="/images/wonderecon-overview.svg" alt="WonderEcon 系统概览：大语言模型智能体通过五类市场互动，玩家可进行反事实探索并获得经济人格画像">
-    </a>
+    <div class="featured-work__media">
+      <a href="https://github.com/Planet-300894/WonderEcon/blob/main/readme_assets/observer_mode/o_choose_agent_and_start.gif" target="_blank" rel="noopener">
+        <img src="/images/wonderecon/o_choose_agent_and_start.gif" alt="WonderEcon 观察模式：选择家庭智能体并启动模拟">
+        <span>选择智能体</span>
+      </a>
+      <a href="https://github.com/Planet-300894/WonderEcon/blob/main/readme_assets/observer_mode/o_5_scenes.gif" target="_blank" rel="noopener">
+        <img src="/images/wonderecon/o_5_scenes.gif" alt="WonderEcon 的五类经济市场场景">
+        <span>探索五类市场场景</span>
+      </a>
+    </div>
     <div class="featured-work__content">
       <h3>WonderEcon: an interactive LLM-agent economic simulation system</h3>
       <p>一个由大语言模型驱动的可交互经济模拟系统，涵盖家庭、企业、银行和公共部门在五类市场中的互动。玩家可以接管一个家庭智能体，探索不同决策带来的反事实结果，并发现自己的经济人格类型（EPTI）。<strong>EMNLP 2026 最佳演示奖</strong>。</p>

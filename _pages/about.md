@@ -74,9 +74,16 @@ redirect_from:
 <section class="homepage-card" id="featured-work">
   <header class="homepage-card__header"><h2>Featured Work</h2></header>
   <div class="featured-work">
-    <a class="featured-work__media" href="https://wonderecon.com/" target="_blank" rel="noopener">
-      <img src="/images/wonderecon-overview.svg" alt="WonderEcon system overview: LLM agents interact through five markets, with a human player exploring counterfactuals and an economic personality profile">
-    </a>
+    <div class="featured-work__media">
+      <a href="https://github.com/Planet-300894/WonderEcon/blob/main/readme_assets/observer_mode/o_choose_agent_and_start.gif" target="_blank" rel="noopener">
+        <img src="/images/wonderecon/o_choose_agent_and_start.gif" alt="WonderEcon observer mode: selecting a household agent and starting a simulation">
+        <span>Choose an agent</span>
+      </a>
+      <a href="https://github.com/Planet-300894/WonderEcon/blob/main/readme_assets/observer_mode/o_5_scenes.gif" target="_blank" rel="noopener">
+        <img src="/images/wonderecon/o_5_scenes.gif" alt="WonderEcon’s five economic market scenes">
+        <span>Explore five market scenes</span>
+      </a>
+    </div>
     <div class="featured-work__content">
       <h3>WonderEcon: an interactive LLM-agent economic simulation system</h3>
       <p>A playable, LLM-driven economic simulation where households, firms, banks, and public institutions interact across five markets. Players can take over a household agent, explore counterfactual decisions, and discover their Economic Personality Type Indicator (EPTI). <strong>EMNLP 2026 Best Demonstration Award</strong>.</p>
