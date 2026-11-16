@@ -2,7 +2,7 @@
    DARK MODE
    ========================================================================== */
 
-html.theme-dark {
+html.theme-dark:not(.reference-home) {
   background: #111827;
 
   body,

@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 <section class="homepage-intro-card">
-  <p>Hi, there! 👋 I’m <strong>Jiale</strong>. I am a Research Assistant Professor at the Center for AI for Social Science at Shenzhen Loop Area Institute (SLAI). Before joining SLAI, I was a post-doctoral fellow at the School of Business and Management, HKUST. I received my Ph.D. degree in Computer Science from BUPT in 2023, during which I was also a visiting Ph.D. student at SUTD. I received my Bachelor degree in Communication Engineering from XDU in 2018.</p>
+  <p>👋 Hi, there! I’m Jiale. I am a Research Assistant Professor at the Center for AI for Social Science at Shenzhen Loop Area Institute (SLAI). Before joining SLAI, I was a post-doctoral fellow at the School of Business and Management, HKUST. I received my Ph.D. degree in Computer Science from BUPT in 2023, during which I was also a visiting Ph.D. student at SUTD. I received my Bachelor degree in Communication Engineering from XDU in 2018.</p>
   <p class="research-focus">My research focuses on <strong>AI for economic and social systems</strong>, particularly <strong><span class="research-topic research-topic--world"><span class="research-topic__icon" aria-hidden="true">🌍</span> Economic World Models</span>, <span class="research-topic research-topic--social"><span class="research-topic__icon" aria-hidden="true">👥</span> LLM-based social simulation</span>, and <span class="research-topic research-topic--agents"><span class="research-topic__icon" aria-hidden="true">🤖</span> economic and financial agents</span></strong>. I study how AI agents perceive, reason, interact, and adapt in dynamic economic environments, and how such agentic systems can be used to model, simulate, and understand real-world economic and financial processes.</p>
   <p class="reference-recruiting"><span class="recruiting-icon" aria-hidden="true">📢</span> I am actively looking for potential collaborators, especially students passionate about AI research. For research assistant or Ph.D. opportunities, please contact me at <a href="mailto:jialehan@slai.edu.cn"><strong>jialehan@slai.edu.cn</strong></a>. <a class="recruiting-details-button recruitment-program__details" href="/students-openings/">Students &amp; openings <span aria-hidden="true">→</span></a></p>
 </section>
@@ -97,31 +97,88 @@ redirect_from:
 
 <h3 class="reference-subheading">Working Papers</h3>
 
-<ul class="reference-publications">
-  <li><strong>Hypergraph Modeling of Supply Chains: Unveiling the Impact of High-Order and Temporal Dynamics on Credit Risk Prediction.</strong> Jiale Han, Yi Yang, Yangyang Fan, Zhongju Zhang. Production and Operations Management (UTD 24), Second-Round Major Revision.</li>
-  <li><strong>HoneyImage: Verifiable, Harmless, and Stealthy Dataset Ownership Verification for Image Models.</strong> Zhihao Zhu, Jiale Han, Yi Yang. Management Information Systems Quarterly (UTD 24), Major Revision. <a href="https://arxiv.org/abs/2508.00892">[Paper]</a></li>
-  <li><strong>RAG Meets Temporal Graphs: Time-Sensitive Modeling and Retrieval for Evolving Knowledge.</strong> Jiale Han, Austin Cheung, Yubai Wei, Zheng Yu, Xusheng Wang, Bing Zhu, Yi Yang. Under Review. <a href="https://arxiv.org/abs/2510.13590">[Paper]</a> <a href="https://github.com/hanjiale/Temporal-GraphRAG">[Code]</a></li>
+<ul class="reference-publications" role="list">
+  <li>
+    <span class="publication-title">Hypergraph Modeling of Supply Chains: Unveiling the Impact of High-Order and Temporal Dynamics on Credit Risk Prediction.</span>
+    <p class="publication-meta">Jiale Han, Yi Yang, Yangyang Fan, Zhongju Zhang. Production and Operations Management (UTD 24), Second-Round Major Revision.</p>
+  </li>
+  <li>
+    <span class="publication-title">HoneyImage: Verifiable, Harmless, and Stealthy Dataset Ownership Verification for Image Models.</span>
+    <p class="publication-meta">Zhihao Zhu, Jiale Han, Yi Yang. Management Information Systems Quarterly (UTD 24), Major Revision. <span class="publication-links"><a href="https://arxiv.org/abs/2508.00892">Paper</a></span></p>
+  </li>
+  <li>
+    <span class="publication-title">RAG Meets Temporal Graphs: Time-Sensitive Modeling and Retrieval for Evolving Knowledge.</span>
+    <p class="publication-meta">Jiale Han, Austin Cheung, Yubai Wei, Zheng Yu, Xusheng Wang, Bing Zhu, Yi Yang. Under Review. <span class="publication-links"><a href="https://arxiv.org/abs/2510.13590">Paper</a> <a href="https://github.com/hanjiale/Temporal-GraphRAG">Code</a></span></p>
+  </li>
 </ul>
 
 <h3 class="reference-subheading">Selected Publications</h3>
 
-<ul class="reference-publications">
-  <li><strong>Human or Machine? A Preliminary Turing Test for Speech-to-Speech Interaction.</strong> Xiang Li, Jiabao Gao, Sipei Lin, Xuan Zhou, Chi Zhang, Bo Cheng, Jiale Han<sup>†</sup>, Benyou Wang. ICLR 2026. <a href="https://arxiv.org/abs/2602.24080">[Paper]</a> <a href="https://github.com/Carbohydrate1001/S2S-Turing-Test">[Code]</a></li>
-  <li><strong>CGSVD: Cascaded Granular Singular Value Decomposition for Large Language Model Compression.</strong> Yuli Chen, Shuhao Zhang, Jiale Han, Fanshen Meng, Haishen Jiang, Bo Cheng, Qiang Tong, Xiulei Liu. ICML 2026. <a href="https://openreview.net/forum?id=x23DAFnbhi">[Paper]</a></li>
-  <li><strong>Beyond A Fixed Seal: Adaptive Stealing Watermark in Large Language Models.</strong> Shuhao Zhang, Yuli Chen, Jiale Han<sup>†</sup>, Bo Cheng<sup>†</sup>, Jiabao Ma. ACL Findings 2026. <a href="https://aclanthology.org/2026.findings-acl.1036/">[Paper]</a></li>
-  <li><strong>TTS-Hub: Leveraging Modular LoRAs and Arithmetic Composition for Controllable Text-to-Speech.</strong> Xiang Li, Shiqi Zhang, Zichen Xu, Wenyuan Gu, Hongru Xiao, Bo Cheng, Li Zhou, Jiale Han<sup>†</sup>, Benyou Wang. EMNLP 2026. <a href="https://openreview.net/forum?id=0x5RjTe8ph">[Paper]</a></li>
-  <li><strong>Analyze–Compose–Execute: A Dynamic Dialogue Framework for Multi-Agent Debate.</strong> Wenyuan Gu, Haowen Wang, Jiale Han<sup>†</sup>, Xiang Li, Zhixuan Wu, Hongru Xiao, Bo Cheng<sup>†</sup>. AAAI 2026.</li>
-  <li><strong>DLP: Dynamic Layerwise Pruning in Large Language Models.</strong> Yuli Chen, Bo Cheng<sup>†</sup>, Jiale Han<sup>†</sup>, Yingying Zhang, Yingting Li, Shuhao Zhang. ICML 2025. <a href="https://arxiv.org/abs/2505.23807">[Paper]</a> <a href="https://github.com/ironartisan/DLP">[Code]</a></li>
-  <li><strong>Adapting General-Purpose Embedding Models to Private Datasets Using Keyword-based Retrieval.</strong> Yubai Wei, Jiale Han, Yi Yang. ACL Findings 2025. <a href="https://doi.org/10.18653/v1/2025.findings-acl.357">[Paper]</a> <a href="https://github.com/BaileyWei/BMEmbed">[Code]</a></li>
-  <li><strong>Explain-Analyze-Generate: A Sequential Multi-Agent Collaboration Method for Complex Reasoning.</strong> Wenyuan Gu<sup>*</sup>, Jiale Han<sup>*</sup>, Haowen Wang, Xiang Li, Bo Cheng. COLING 2025. <a href="https://aclanthology.org/2025.coling-main.475/">[Paper]</a></li>
-  <li><strong>VideoQA-TA: Temporal-Aware Multi-Modal Video Question Answering.</strong> Zhixuan Wu, Bo Cheng, Jiale Han, Jiabao Ma, Shuhao Zhang, Yuli Chen, Changbo Li. COLING 2025, Outstanding Paper. <a href="https://aclanthology.org/2025.coling-main.483/">[Paper]</a> <a href="https://github.com/YALYAshley/VideoQA-TA">[Code]</a></li>
-  <li><strong>Towards Hard Few-Shot Relation Classification.</strong> Jiale Han, Bo Cheng, Zhiguo Wan, Wei Lu. IEEE TKDE 2023. <a href="https://ieeexplore.ieee.org/document/10032649">[Paper]</a></li>
-  <li><strong>Generative Prompt Tuning for Relation Classification.</strong> Jiale Han, Shuai Zhao, Bo Cheng, Shengkun Ma, Wei Lu. EMNLP Findings 2022. <a href="https://doi.org/10.18653/v1/2022.findings-emnlp.231">[Paper]</a> <a href="https://github.com/hanjiale/GenPT">[Code]</a></li>
-  <li><strong>Exploring Task Difficulty for Few-Shot Relation Extraction.</strong> Jiale Han, Bo Cheng, Wei Lu. EMNLP 2021. <a href="https://doi.org/10.18653/v1/2021.emnlp-main.204">[Paper]</a> <a href="https://github.com/hanjiale/HCRP">[Code]</a></li>
-  <li><strong>Learning Discriminative and Unbiased Representations for Few-Shot Relation Extraction.</strong> Jiale Han, Bo Cheng, Guoshun Nan. CIKM 2021. <a href="https://doi.org/10.1145/3459637.3482268">[Paper]</a></li>
-  <li><strong>Open Domain Question Answering based on Text Enhanced Knowledge Graph with Hyperedge Infusion.</strong> Jiale Han, Bo Cheng, Xu Wang. EMNLP Findings 2020. <a href="https://doi.org/10.18653/v1/2020.findings-emnlp.133">[Paper]</a></li>
-  <li><strong>Two-Phase Hypergraph based Reasoning with Dynamic Relations for Multi-Hop KBQA.</strong> Jiale Han, Bo Cheng, Xu Wang. IJCAI 2020. <a href="https://doi.org/10.24963/ijcai.2020/500">[Paper]</a></li>
-  <li><strong>Hypergraph Convolutional Network for Multi-Hop Knowledge Base Question Answering.</strong> Jiale Han, Bo Cheng, Xu Wang. AAAI 2020. <a href="https://doi.org/10.1609/aaai.v34i10.7172">[Paper]</a></li>
+<ul class="reference-publications" role="list">
+  <li>
+    <span class="publication-title">Human or Machine? A Preliminary Turing Test for Speech-to-Speech Interaction.</span>
+    <p class="publication-meta">Xiang Li, Jiabao Gao, Sipei Lin, Xuan Zhou, Chi Zhang, Bo Cheng, Jiale Han<sup>†</sup>, Benyou Wang. ICLR 2026. <span class="publication-links"><a href="https://arxiv.org/abs/2602.24080">Paper</a> <a href="https://github.com/Carbohydrate1001/S2S-Turing-Test">Code</a></span></p>
+  </li>
+  <li>
+    <span class="publication-title">CGSVD: Cascaded Granular Singular Value Decomposition for Large Language Model Compression.</span>
+    <p class="publication-meta">Yuli Chen, Shuhao Zhang, Jiale Han, Fanshen Meng, Haishen Jiang, Bo Cheng, Qiang Tong, Xiulei Liu. ICML 2026. <span class="publication-links"><a href="https://openreview.net/forum?id=x23DAFnbhi">Paper</a></span></p>
+  </li>
+  <li>
+    <span class="publication-title">Beyond A Fixed Seal: Adaptive Stealing Watermark in Large Language Models.</span>
+    <p class="publication-meta">Shuhao Zhang, Yuli Chen, Jiale Han<sup>†</sup>, Bo Cheng<sup>†</sup>, Jiabao Ma. ACL Findings 2026. <span class="publication-links"><a href="https://aclanthology.org/2026.findings-acl.1036/">Paper</a></span></p>
+  </li>
+  <li>
+    <span class="publication-title">TTS-Hub: Leveraging Modular LoRAs and Arithmetic Composition for Controllable Text-to-Speech.</span>
+    <p class="publication-meta">Xiang Li, Shiqi Zhang, Zichen Xu, Wenyuan Gu, Hongru Xiao, Bo Cheng, Li Zhou, Jiale Han<sup>†</sup>, Benyou Wang. EMNLP 2026. <span class="publication-links"><a href="https://openreview.net/forum?id=0x5RjTe8ph">Paper</a></span></p>
+  </li>
+  <li>
+    <span class="publication-title">Analyze–Compose–Execute: A Dynamic Dialogue Framework for Multi-Agent Debate.</span>
+    <p class="publication-meta">Wenyuan Gu, Haowen Wang, Jiale Han<sup>†</sup>, Xiang Li, Zhixuan Wu, Hongru Xiao, Bo Cheng<sup>†</sup>. AAAI 2026.</p>
+  </li>
+  <li>
+    <span class="publication-title">DLP: Dynamic Layerwise Pruning in Large Language Models.</span>
+    <p class="publication-meta">Yuli Chen, Bo Cheng<sup>†</sup>, Jiale Han<sup>†</sup>, Yingying Zhang, Yingting Li, Shuhao Zhang. ICML 2025. <span class="publication-links"><a href="https://arxiv.org/abs/2505.23807">Paper</a> <a href="https://github.com/ironartisan/DLP">Code</a></span></p>
+  </li>
+  <li>
+    <span class="publication-title">Adapting General-Purpose Embedding Models to Private Datasets Using Keyword-based Retrieval.</span>
+    <p class="publication-meta">Yubai Wei, Jiale Han, Yi Yang. ACL Findings 2025. <span class="publication-links"><a href="https://doi.org/10.18653/v1/2025.findings-acl.357">Paper</a> <a href="https://github.com/BaileyWei/BMEmbed">Code</a></span></p>
+  </li>
+  <li>
+    <span class="publication-title">Explain-Analyze-Generate: A Sequential Multi-Agent Collaboration Method for Complex Reasoning.</span>
+    <p class="publication-meta">Wenyuan Gu<sup>*</sup>, Jiale Han<sup>*</sup>, Haowen Wang, Xiang Li, Bo Cheng. COLING 2025. <span class="publication-links"><a href="https://aclanthology.org/2025.coling-main.475/">Paper</a></span></p>
+  </li>
+  <li>
+    <span class="publication-title">VideoQA-TA: Temporal-Aware Multi-Modal Video Question Answering.</span>
+    <p class="publication-meta">Zhixuan Wu, Bo Cheng, Jiale Han, Jiabao Ma, Shuhao Zhang, Yuli Chen, Changbo Li. COLING 2025, Outstanding Paper. <span class="publication-links"><a href="https://aclanthology.org/2025.coling-main.483/">Paper</a> <a href="https://github.com/YALYAshley/VideoQA-TA">Code</a></span></p>
+  </li>
+  <li>
+    <span class="publication-title">Towards Hard Few-Shot Relation Classification.</span>
+    <p class="publication-meta">Jiale Han, Bo Cheng, Zhiguo Wan, Wei Lu. IEEE TKDE 2023. <span class="publication-links"><a href="https://ieeexplore.ieee.org/document/10032649">Paper</a></span></p>
+  </li>
+  <li>
+    <span class="publication-title">Generative Prompt Tuning for Relation Classification.</span>
+    <p class="publication-meta">Jiale Han, Shuai Zhao, Bo Cheng, Shengkun Ma, Wei Lu. EMNLP Findings 2022. <span class="publication-links"><a href="https://doi.org/10.18653/v1/2022.findings-emnlp.231">Paper</a> <a href="https://github.com/hanjiale/GenPT">Code</a></span></p>
+  </li>
+  <li>
+    <span class="publication-title">Exploring Task Difficulty for Few-Shot Relation Extraction.</span>
+    <p class="publication-meta">Jiale Han, Bo Cheng, Wei Lu. EMNLP 2021. <span class="publication-links"><a href="https://doi.org/10.18653/v1/2021.emnlp-main.204">Paper</a> <a href="https://github.com/hanjiale/HCRP">Code</a></span></p>
+  </li>
+  <li>
+    <span class="publication-title">Learning Discriminative and Unbiased Representations for Few-Shot Relation Extraction.</span>
+    <p class="publication-meta">Jiale Han, Bo Cheng, Guoshun Nan. CIKM 2021. <span class="publication-links"><a href="https://doi.org/10.1145/3459637.3482268">Paper</a></span></p>
+  </li>
+  <li>
+    <span class="publication-title">Open Domain Question Answering based on Text Enhanced Knowledge Graph with Hyperedge Infusion.</span>
+    <p class="publication-meta">Jiale Han, Bo Cheng, Xu Wang. EMNLP Findings 2020. <span class="publication-links"><a href="https://doi.org/10.18653/v1/2020.findings-emnlp.133">Paper</a></span></p>
+  </li>
+  <li>
+    <span class="publication-title">Two-Phase Hypergraph based Reasoning with Dynamic Relations for Multi-Hop KBQA.</span>
+    <p class="publication-meta">Jiale Han, Bo Cheng, Xu Wang. IJCAI 2020. <span class="publication-links"><a href="https://doi.org/10.24963/ijcai.2020/500">Paper</a></span></p>
+  </li>
+  <li>
+    <span class="publication-title">Hypergraph Convolutional Network for Multi-Hop Knowledge Base Question Answering.</span>
+    <p class="publication-meta">Jiale Han, Bo Cheng, Xu Wang. AAAI 2020. <span class="publication-links"><a href="https://doi.org/10.1609/aaai.v34i10.7172">Paper</a></span></p>
+  </li>
 </ul>
 </section>
 
